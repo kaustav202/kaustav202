@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kaustav202
 - 🔭 I’m currently working on ...Python and Data Science
-- 👀 I’m interested in ...R
-- 🌱 I’m currently learning ...Computer Vision
+- 👀 I’m interested in ...ML
+- 🌱 I’m currently learning ...Django
 - 💞️ I’m looking to collaborate on ...Open Source Projects
 - 📫 How to reach me ...gangulykaustav300@gmail.com
 
