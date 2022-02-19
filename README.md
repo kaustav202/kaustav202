@@ -1,6 +1,8 @@
 <details>
   
   <summary>⚡ 🙋  About Me</summary>
+  
+  </br>
 
 - 👋 Hi, I’m @kaustav202
 - 🔭 I’m currently working on ...Python and Data Science
