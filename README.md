@@ -29,7 +29,8 @@ You can click the Preview link to take a look at your changes.
 <br />
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+ <b style = {font-weight: 600}>Visitors Count</b>
+  </br></br>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{kaustav202}/count.svg" /></p> 
 <br>
 </div>
