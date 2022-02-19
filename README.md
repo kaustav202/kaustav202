@@ -1,3 +1,7 @@
+<details>
+  
+  <summary>⚡ 🙋  About Me</summary>
+
 - 👋 Hi, I’m @kaustav202
 - 🔭 I’m currently working on ...Python and Data Science
 - 👀 I’m interested in ...ML
@@ -9,3 +13,4 @@
 kaustav202/kaustav202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+</details>
