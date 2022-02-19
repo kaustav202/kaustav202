@@ -1,6 +1,5 @@
 # Hey there👋, Welcome to my Github Profile !! 
 ### Find my open source contributions and projects below.
-</br>
 <details>
   <summary>⚡ 🙋  About Me</summary>
   
