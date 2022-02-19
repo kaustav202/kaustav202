@@ -65,6 +65,6 @@ You can click the Preview link to take a look at your changes.
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustav202&layout=compact&theme=algolia" />
 </p>
 
-![Recent Contribution Graph](https://activity-graph.herokuapp.com/graph?username=kaustav202&bg_color=000033&color=FFFFFF&line=6498b0&point=FFFFFF&theme=rogue&hide_border=true&area=true)
+![Recent Contribution Graph](https://activity-graph.herokuapp.com/graph?username=kaustav202&custom_title=Recent%20Contribution%20Graph&bg_color=000033&color=FFFFFF&line=6498b0&point=FFFFFF&theme=rogue&hide_border=true&area=true)
 
 <br/>
