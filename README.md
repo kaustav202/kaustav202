@@ -22,18 +22,22 @@ You can click the Preview link to take a look at your changes.
 
 #### Languages
 
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Java](https://img.shields.io/badge/Java-%23150458.svg?style=flat&logo=java&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;<!-- ![Java](https://img.shields.io/badge/Java-%23150458.svg?style=flat&logo=java&logoColor=white)&nbsp; -->
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)&nbsp;
+
 
 #### Web Dev
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)&nbsp;
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
 
 
 #### Tools and Technologies
 
-
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Firebase](https://img.shields.io/badge/firebase-%23ED7A00.svg?style=flat&logo=firebase&logoColor=white)&nbsp;
