@@ -22,7 +22,8 @@ You can click the Preview link to take a look at your changes.
 
 #### Languages
 
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;<!-- ![Java](https://img.shields.io/badge/Java-%23150458.svg?style=flat&logo=java&logoColor=white)&nbsp; -->
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Java](https://img.shields.io/badge/Java-%23150458.svg?style=flat&logo=java&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)&nbsp;
@@ -31,18 +32,54 @@ You can click the Preview link to take a look at your changes.
 #### Web Dev
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)&nbsp;
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)&nbsp;
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)&nbsp;
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white)&nbsp;
 
 
 #### Tools and Technologies
 
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)&nbsp;
+![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Firebase](https://img.shields.io/badge/firebase-%23ED7A00.svg?style=flat&logo=firebase&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)&nbsp;
+![NPM](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)&nbsp;
+![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white)&nbsp;
+![PyPI](https://img.shields.io/badge/pypi-3775A9?style=flat&logo=pypi&logoColor=white)&nbsp;
+
+#### Data Analytics 
+
+![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)&nbsp;
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)&nbsp;
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=white)&nbsp;
+
+
+#### Environments
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white)&nbsp;
+![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=flat&logo=anaconda&logoColor=white)&nbsp;
+![Spyder](https://img.shields.io/badge/Spyder%20Ide-FF0000?style=flat&logo=spyder%20ide&logoColor=white)&nbsp;
+![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flate&logo=PyCharm&logoColor=white)&nbsp;
+![Replit](https://img.shields.io/badge/replit-667881?style=flat&logo=replit&logoColor=white)&nbsp;
+![R Studio](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=RStudio&logoColor=white)&nbsp;
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)&nbsp;
+
+
+#### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)&nbsp;
 ![SQlite](https://img.shields.io/badge/-SQlite-05122A?style=flat&logo=sqlite&logoColor=A8B9CC)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)&nbsp;
+
+
+#### Cloud Infrastructures
+
+![Firebase](https://img.shields.io/badge/firebase-%23ED7A00.svg?style=flat&logo=firebase&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)&nbsp;
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)&nbsp;
+
 
 <br/>
 
