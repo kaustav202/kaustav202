@@ -62,7 +62,7 @@ You can click the Preview link to take a look at your changes.
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)&nbsp;
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=white)&nbsp;
 
-
+<!--
 #### Cloud Infrastructures
 
 ![Firebase](https://img.shields.io/badge/firebase-%23ED7A00.svg?style=flat&logo=firebase&logoColor=white)&nbsp;
@@ -80,7 +80,7 @@ You can click the Preview link to take a look at your changes.
 ![Replit](https://img.shields.io/badge/replit-667881?style=flat&logo=replit&logoColor=white)&nbsp;
 ![R Studio](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=RStudio&logoColor=white)&nbsp;
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)&nbsp;
-
+-->
 
 <br/>
 
