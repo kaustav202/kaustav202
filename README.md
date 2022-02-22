@@ -93,7 +93,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <img width="53.5%" src="https://github-readme-stats.vercel.app/api?username=kaustav202&theme=algolia&show_icons=true" />
-  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustav202&layout=compact&theme=algolia" />
+  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustav202&exclude_repo=Portfolio&langs_count=7&layout=compact&theme=algolia" />
 </p>
 
 ![Recent Contribution Graph](https://activity-graph.herokuapp.com/graph?username=kaustav202&custom_title=Recent%20Contribution%20Graph&bg_color=000033&color=FFFFFF&line=6498b0&point=FFFFFF&theme=rogue&hide_border=true&area=true)
