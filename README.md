@@ -100,13 +100,6 @@ You can click the Preview link to take a look at your changes.
 
 <br/>
 
-## 📬 Contact Info
-
-<br/>
-
-<a href="https://www.linkedin.com/in/kgan31/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:gkaustav57@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href = "#"><img alt = "Discord" src = "https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white"/></a>
 
 <div align="center">
  <b style = {font-weight: 600}>Visitors Count</b>
@@ -115,3 +108,12 @@ You can click the Preview link to take a look at your changes.
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{kaustav202}/count.svg" /></p> 
 <br>
 </div>
+
+## 📬 Contact Info
+
+<br/>
+
+<a href="https://www.linkedin.com/in/kgan31/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:gkaustav57@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href = "#"><img alt = "Discord" src = "https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white"/></a>
+
