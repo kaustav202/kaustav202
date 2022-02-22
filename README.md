@@ -122,4 +122,4 @@ You can click the Preview link to take a look at your changes.
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkaustav202%2Fhit-counter&count_bg=%236DAC3D&title_bg=%23555555&icon=grafana.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>   -->
 
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaustav202)
+<!-- ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaustav202) -->
