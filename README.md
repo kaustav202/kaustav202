@@ -2,7 +2,7 @@
 ### Find my open source contributions and projects below.
 </br>
 <details>
-  <summary>⚡ 🙋  About Me</summary>
+  <summary>⚡  About Me</summary>
   
   </br>
 
