@@ -6,12 +6,14 @@
   
   </br>
 
-- 👋 Hi, I’m @kaustav202
-- 🔭 I’m currently working on ...Online Retail Community App
-- 👀 I’m curious about ...Deep Neural Networks
-- 🌱 I’m currently learning ...Flask
-- 💞️ I’m looking to collaborate on ...Open Source Projects
-- 📫 How to reach me ...gkaustav57@gmail.com
+
+&nbsp;&nbsp;&nbsp;**Here's what I'm upto these days**
+
+- 🔧 I’m currently working on ...Online Retail Community App.
+- 💡 I’m curious about ...Blockchain and Crypto Currency.
+- 📖 I’m currently learning ...Flask.
+- ❄️ I’m looking to collaborate on ...Open Source Projects.
+- 📫 How to reach me ...gkaustav57@gmail.com.
 
 <!---
 kaustav202/kaustav202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
