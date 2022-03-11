@@ -92,7 +92,7 @@ You can click the Preview link to take a look at your changes.
 <br />
 
 
-##      📌🏴✔️  Coding Profiles 🔘🏁
+##      📌🏴  Coding Profiles 
 
 ## 📄📜 Activity Summary
 
