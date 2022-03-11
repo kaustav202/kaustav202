@@ -91,8 +91,10 @@ You can click the Preview link to take a look at your changes.
 
 <br />
 
+<!--
+<details>
 
-## 📌🏴  Coding Profiles 
+  <summary><h2> 📌🏴  Coding Profiles </h2></summary>
 
 
 </br>
@@ -116,7 +118,11 @@ You can click the Preview link to take a look at your changes.
 
 <img style="height:25px" src = "https://img.shields.io/static/v1?message=Geeks%20For%20Geeks&logo=GeeksforGeeks&labelColor=white&color=lightgrey&logoColor=2F8D46&label=%20&style=plastic"/>  &nbsp;
 
-</br>
+</details>
+
+-->
+
+
 
 ## 📄📜 Activity Summary
 
