@@ -110,11 +110,11 @@ You can click the Preview link to take a look at your changes.
 
 </br>
 
-<img style="height:25px" src = "https://img.shields.io/static/v1?message=Geeks%20For%20Geeks&logo=GeeksforGeeks&labelColor=white&color=lightgrey&logoColor=2F8D46&label=%20&style=plastic"/>  &nbsp;
+<img style="height:26px" src = "https://img.shields.io/static/v1?message=Codeforces&logo=Codeforces&labelColor=red&color=red&logoColor=yellow&label=%20&style=plastic"/>  &nbsp;
 
 </br>
 
-<img style="height:25px" src = "https://img.shields.io/static/v1?message=Codeforces&logo=Codeforces&labelColor=red&color=red&logoColor=yellow&label=%20&style=plastic"/>  &nbsp;
+<img style="height:25px" src = "https://img.shields.io/static/v1?message=Geeks%20For%20Geeks&logo=GeeksforGeeks&labelColor=white&color=lightgrey&logoColor=2F8D46&label=%20&style=plastic"/>  &nbsp;
 
 </br>
 
