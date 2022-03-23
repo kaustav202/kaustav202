@@ -150,10 +150,12 @@ You can click the Preview link to take a look at your changes.
 
 ## 📄📜 Activity Summary
 
+
 <p align="center">
   <img width="53.5%" src="https://github-readme-stats.vercel.app/api?username=kaustav202&theme=algolia&show_icons=true" />
   <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustav202&exclude_repo=Portfolio&langs_count=7&layout=compact&theme=algolia" />
 </p>
+
 
 ![Recent Contribution Graph](https://activity-graph.herokuapp.com/graph?username=kaustav202&custom_title=Recent%20Contribution%20Graph&bg_color=000033&color=FFFFFF&line=6498b0&point=FFFFFF&theme=rogue&hide_border=true&area=true)
 
@@ -164,11 +166,11 @@ You can click the Preview link to take a look at your changes.
  <b style = {font-weight: 600}>Visitors Count</b>
   </br>
 
+
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{kaustav202}/count.svg" /></p> 
 <br>
 </div>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F1BRCNJ)
 
 ## 📬 Contact Info
 
@@ -178,9 +180,20 @@ You can click the Preview link to take a look at your changes.
 <a href="mailto:gkaustav57@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href = "https://discordapp.com/users/885073575839670302"><img alt = "Discord" src = "https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white"/></a>
 
+</br>
+</br>
 
+<div style = "display: flex; align-items: center; justify-content: center;">
+ 
+  <div>
+    
+<a href="https://www.buymeacoffee.com/gkaustav" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 31px !important;width: 154px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important; margin-left: 35%;" ></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://ko-fi.com/F1F1BRCNJ"><img src = "https://ko-fi.com/img/githubbutton_sm.svg"/></a>
+    
+  </div>
+ </div>
+ 
 <!--
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkaustav202%2Fhit-counter&count_bg=%236DAC3D&title_bg=%23555555&icon=grafana.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>   -->
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkaustav202%2Fhit-counter&count_bg=%236DAC3D&title_bg=%23555555&icon=grafana.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>  -->
 
 
 <!-- ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaustav202) -->
