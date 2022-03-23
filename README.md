@@ -168,6 +168,8 @@ You can click the Preview link to take a look at your changes.
 <br>
 </div>
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F1BRCNJ)
+
 ## 📬 Contact Info
 
 <br/>
