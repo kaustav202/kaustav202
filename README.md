@@ -3,9 +3,9 @@
 
 </br>
 <details>
-  
+
   <summary><b> ⚡  About Me   </b> </summary>
-  
+
   </br>
 
 
@@ -55,6 +55,7 @@ You can click the Preview link to take a look at your changes.
 
 #### Tools and Technologies
 
+
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)&nbsp;
 ![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -93,7 +94,7 @@ You can click the Preview link to take a look at your changes.
 <br/>
 
 
-<!--
+
 
 <br />
 
@@ -107,10 +108,11 @@ You can click the Preview link to take a look at your changes.
 </br>
 
 <a href="#" ><img style="height:25px; margin:10%; position: absolute;float: left;" src = "https://img.shields.io/static/v1?message=Code%20Chef&logo=CodeChef&labelColor=brown&color=brown&logoColor=white&label=%20&style=plastic"/></a> &nbsp;&nbsp;&nbsp; &nbsp;<img style="height:25px" src = "https://img.shields.io/static/v1?message=Leet%20Code&logo=LeetCode&labelColor=05122A&color=05122A&logoColor=FFA116&label=%20&style=plastic"/>&nbsp;&nbsp;&nbsp;  &nbsp;<img style="height:25px" src = "https://img.shields.io/static/v1?message=HackerRank&logo=HackerRank&labelColor=black&color=black&logoColor=00EA64&label=%20&style=flat"/> &nbsp;&nbsp;&nbsp; &nbsp;<img style="height:26px" src = "https://img.shields.io/static/v1?message=Codeforces&logo=Codeforces&labelColor=red&color=red&logoColor=yellow&label=%20&style=plastic"/> &nbsp;&nbsp;&nbsp; &nbsp;<img style="height:25px" src = "https://img.shields.io/static/v1?message=Geeks%20For%20Geeks&logo=GeeksforGeeks&labelColor=white&color=lightgrey&logoColor=2F8D46&label=%20&style=plastic"/>  &nbsp;
+<a href = "#" > <img src = "https://img.shields.io/static/v1?message=Articles&logo=Medium&labelColor=000000&color=white&logoColor=white&label=Medium&style=plastic"/></a>
+
 
 </details>
 
--->
 
 </br>
 
