@@ -17,6 +17,7 @@
 - ❄️ I’m looking to collaborate on ...Open Source Projects.
 - 📫 How to reach me ...gkaustav57@gmail.com.
 
+
 <!---
 
 kaustav202/kaustav202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -93,16 +94,13 @@ You can click the Preview link to take a look at your changes.
 
 <br/>
 
-
 <!--
 
 <br />
 
-
 <details>
 
   <summary><h2> 📌🏴  Coding Profiles </h2></summary>
-
 
 </br>
 </br>
