@@ -169,7 +169,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Contribution Calender
 
-<img src ="profile-3d-contrib/profile-green-animate.svg"/>
+<img src ="profile-3d-contrib/profile-customize.svg"/>
 
 <div align="center">
  <b style = {font-weight: 600}>Visitors Count</b>
