@@ -1,6 +1,6 @@
 {
   "type": "normal",
-  "backgroundColor": "#061131",
+  "backgroundColor": "rgb(2,2,61)",
   "foregroundColor": "#ffffff",
   "strongColor": "#ffffff",
   "weakColor": "gray",
