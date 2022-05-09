@@ -17,7 +17,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_habits: yes
           plugin_habits_charts: yes
-          config_order: base.header, introduction, base.activity+community, base.repositories, habits
+          base: header, introduction, activity+community, repositories
           config_display: columns
     
       - name: R2
