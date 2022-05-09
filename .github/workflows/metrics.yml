@@ -18,7 +18,6 @@ jobs:
           plugin_habits: yes
           plugin_habits_charts: yes
           base: header, introduction, activity+community, repositories
-          config_display: columns
     
       - name: R2
         uses: lowlighter/metrics@latest
