@@ -10,8 +10,26 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: R1
+        uses: lowlighter/metrics@latest
         with:
+          filename: git-metrics/r1.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          config_order: base.header, introduction, base.activity+community, base.repositories
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          config_order: base.header, introduction, base.activity+community, base.repositories, habits
+          config_display: columns
+    
+      - name: R2
+        uses: lowlighter/metrics@latest
+        with:
+          filename: git-metrics/r2.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_followup: yes
+          plugin_discussions: yes
+          plugin_followup_sections: user
+          plugin_notable: yes
+          config_order: notable, followup, discussions
+          config_display: columns
 
