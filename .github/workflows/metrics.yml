@@ -17,7 +17,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_habits: yes
           plugin_habits_charts: yes
-          base: header, introduction, activity+community, repositories
+          base: header, introduction, activity, community, repositories
     
       - name: R2
         uses: lowlighter/metrics@latest
