@@ -177,6 +177,29 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
+
+<!-- <details>
+  
+  <summary>  <h2> &nbsp;&nbsp; 🌟Profiles  </h2> </summary>
+  
+  </br>
+
+  <a href = "https://github.com/kaustav202/per.md"> <h3>🔸🎮 Lots of other cool stuffs, trivia and info about me </h3> </a>
+  
+  </br>
+  
+  <a href = "https://metrics.lecoq.io/about/kaustav202"><h3>🔸🚀  Checkout all my open source jorney and more metrics in this page </h3> </a>
+  
+  </br>
+  
+  <a href = "https://kaustav-port.web.app/"><h3>🔸🎴 My Portfolio Website</h3></a>
+  
+  </br>
+  </br>
+  
+ </details> -->
+
+
 ## 📬 Contact Info
 
 <br/>
