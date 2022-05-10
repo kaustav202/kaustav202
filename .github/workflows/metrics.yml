@@ -42,3 +42,30 @@ jobs:
           plugin_topics: yes
           plugin_topics_mode: starred
           
+      - name: R4 My activity
+        uses: lowlighter/metrics@latest
+        with:
+          filename: git-metrics/r4.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_repositories: yes
+          plugin_starlists: yes
+          plugin_starlists_languages: yes
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          
+          
+      - name: R5 Community Activity on My Repo 
+        uses: lowlighter/metrics@latest
+        with:
+          filename: git-metrics/r5.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_stargazers: yes
+          plugin_followup: yes
+          plugin_people: yes
+          plugin_people_types: contributors, stargazers, watchers, sponsors
+          plugin_people_identicons: yes
+          plugin_people_size: 16
