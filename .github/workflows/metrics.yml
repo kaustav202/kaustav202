@@ -43,7 +43,7 @@ jobs:
           base: ""
           plugin_discussions: yes
           plugin_stackoverflow: yes
-          plugin_stackoverflow_user: 16323922
+          plugin_stackoverflow_user: 18587584
           plugin_topics: yes
           plugin_topics_mode: starred
           
