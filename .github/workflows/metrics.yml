@@ -26,9 +26,20 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_followup: yes
-          plugin_discussions: yes
           plugin_followup_sections: user
           plugin_notable: yes
-          config_order: notable, followup, discussions
-          config_display: columns
+          config_order: notable, followup
 
+      - name: R3
+        uses: lowlighter/metrics@latest
+        with:
+          filename: git-metrics/r3.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_discussions: yes
+          plugin_stackoverflow: yes
+          plugin_stackoverflow_user: 72179327
+          plugin_topics: yes
+          plugin_topics_mode: labels
+          config_order: discussions, stackoverflow, topics
+          
