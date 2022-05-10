@@ -25,10 +25,11 @@ jobs:
           filename: git-metrics/r2.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
+          plugin_notable: yes
+          plugin_notable_indepth: yes
+          plugin_notable_filter: author:kaustav202
           plugin_followup: yes
           plugin_followup_sections: user
-          plugin_notable: yes
-          config_order: notable, followup
 
       - name: R3
         uses: lowlighter/metrics@latest
@@ -51,6 +52,7 @@ jobs:
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_repositories: yes
+          plugin_repositories_featured: kaustav202
           plugin_starlists: yes
           plugin_starlists_languages: yes
           plugin_languages: yes
