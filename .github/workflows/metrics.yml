@@ -32,6 +32,7 @@ jobs:
           plugin_notable_types: commit, pull_request, issue
           plugin_followup: yes
           plugin_followup_sections: user
+          config_order: notable, followup
 
       - name: R3 Interests
         uses: lowlighter/metrics@latest
@@ -70,6 +71,6 @@ jobs:
           plugin_stargazers: yes
           plugin_followup: yes
           plugin_people: yes
-          plugin_people_types: contributors, stargazers, watchers, sponsors
+          plugin_people_types: followers, contributors, stargazers, watchers, sponsors
           plugin_people_identicons: yes
           plugin_people_size: 16
