@@ -40,6 +40,5 @@ jobs:
           plugin_stackoverflow: yes
           plugin_stackoverflow_user: 72179327
           plugin_topics: yes
-          plugin_topics_mode: labels
-          config_order: discussions, stackoverflow, topics
+          plugin_topics_mode: starred
           
