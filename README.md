@@ -184,7 +184,7 @@ You can click the Preview link to take a look at your changes.
   
   </br>
 
-  <a href = "https://github.com/kaustav202/kaustav202/fun.md"> <h3>🔸🎮 Lots of other cool stuffs, trivia and info about me </h3> </a>
+  <a href = "https://github.com/kaustav202/kaustav202/blob/main/fun.md"> <h3>🔸🎮 Lots of other cool stuffs, trivia and info about me </h3> </a>
   
   </br>
   
