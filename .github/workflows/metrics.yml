@@ -26,8 +26,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_notable: yes
+          plugin_notable_repositories: yes
           plugin_notable_indepth: yes
-          plugin_notable_filter: author:kaustav202
           plugin_followup: yes
           plugin_followup_sections: user
 
