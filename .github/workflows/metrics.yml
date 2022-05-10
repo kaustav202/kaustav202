@@ -10,7 +10,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: R1
+      - name: R1 Brief Overview
         uses: lowlighter/metrics@latest
         with:
           filename: git-metrics/r1.svg
@@ -19,7 +19,7 @@ jobs:
           plugin_habits_charts: yes
           base: header, introduction, activity, community, repositories
     
-      - name: R2
+      - name: R2 Contributions
         uses: lowlighter/metrics@latest
         with:
           filename: git-metrics/r2.svg
@@ -31,7 +31,7 @@ jobs:
           plugin_followup: yes
           plugin_followup_sections: user
 
-      - name: R3
+      - name: R3 Interests
         uses: lowlighter/metrics@latest
         with:
           filename: git-metrics/r3.svg
@@ -43,7 +43,7 @@ jobs:
           plugin_topics: yes
           plugin_topics_mode: starred
           
-      - name: R4 My activity
+      - name: R4 My Activity
         uses: lowlighter/metrics@latest
         with:
           filename: git-metrics/r4.svg
