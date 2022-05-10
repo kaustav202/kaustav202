@@ -17,6 +17,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_habits: yes
           plugin_habits_charts: yes
+          plugin_lines: yes
           base: header, introduction, activity, community, repositories
     
       - name: R2 Contributions
@@ -42,7 +43,7 @@ jobs:
           base: ""
           plugin_discussions: yes
           plugin_stackoverflow: yes
-          plugin_stackoverflow_user: 72179327
+          plugin_stackoverflow_user: 16323922
           plugin_topics: yes
           plugin_topics_mode: starred
           
@@ -74,3 +75,4 @@ jobs:
           plugin_people_types: followers, contributors, stargazers, watchers, sponsors
           plugin_people_identicons: yes
           plugin_people_size: 16
+          plugin_traffic: yes
