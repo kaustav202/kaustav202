@@ -2,25 +2,26 @@
 ### Find my open source contributions and projects below.
 
 </br>
-<details>
 
-  <summary><b> ⚡  About Me   </b> </summary>
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Kaustav;Full+stack+web+developer...;Data+Science+Enthusiast...;Tech+Blogger...;Active+Open+Source+Contributor...)](https://git.io/typing-svg)
+ 
+ <p>- <i>Aspiring software developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set with a special emphasis on writing good code. Also regularly write technical content and articles for various popular tech sites.</i></p>
 
 
-<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="52%" align="right" />
+<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
 
-  </br>
-  </br>
-  </br>
+## ⚡🙋‍♂️ About Me   
 
-&nbsp;&nbsp;&nbsp;**Here's what I'm upto these days**
+</br>
 
 - 🔧 I’m currently working on ...Online Retail Community App.
+
 - 💡 I’m curious about ...Blockchain and Crypto Currency.
 - 📖 I’m currently learning ...Flask.
 - ❄️ I’m looking to collaborate on ...Open Source Projects.
 - 📫 How to reach me ...gkaustav57@gmail.com.
 
+<hr>
 
 <!---
 
@@ -29,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 
 --->
 
-</details>
+
 </br>
 
 ## 🛠️ Skills
