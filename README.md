@@ -125,7 +125,6 @@ You can click the Preview link to take a look at your changes.
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)&nbsp;
 -->
 
-<br/>
 
 <!--
 
@@ -192,8 +191,6 @@ You can click the Preview link to take a look at your changes.
 ## Achievements Section
 
 -->
-
-</br>
 
 ## &nbsp; 🗓️  Contribution Calender and Radar
 
