@@ -1,7 +1,4 @@
 # Hey there👋, Welcome to my Github Profile
-### Find my open source contributions and projects below.
-
-</br>
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Kaustav;Full+stack+web+developer...;Data+Science+Enthusiast...;Tech+Blogger...;Active+Open+Source+Contributor...)](https://git.io/typing-svg)
  
