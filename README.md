@@ -29,6 +29,12 @@ You can click the Preview link to take a look at your changes.
 
 </br>
 
+
+<table width="100%" >
+
+ <tr>
+    <td>
+     
 ## 🛠️ Skills
 
 #### Languages
@@ -75,6 +81,24 @@ You can click the Preview link to take a look at your changes.
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white)&nbsp;<!-- ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)&nbsp; -->
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)&nbsp;
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=white)&nbsp;
+     
+</td>
+    <td>
+  
+## 📄📜 Stats
+
+ </br>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=kaustav202&theme=algolia&show_icons=true" />
+ </br>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustav202&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&theme=algolia" />
+</p>
+     
+  </td>
+ </tr>
+</table>
+
 
 <!--
 #### Cloud Infrastructures
@@ -163,15 +187,6 @@ You can click the Preview link to take a look at your changes.
 ## Achievements Section
 
 -->
-
-
-## 📄📜 Activity Summary
-
-
-<p align="center">
-  <img width="53.5%" src="https://github-readme-stats.vercel.app/api?username=kaustav202&theme=algolia&show_icons=true" />
-  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustav202&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&theme=algolia" />
-</p>
 
 
 ![Recent Contribution Graph](https://activity-graph.herokuapp.com/graph?username=kaustav202&custom_title=Recent%20Contribution%20Graph&bg_color=000033&color=FFFFFF&line=6498b0&point=FFFFFF&theme=rogue&hide_border=true&area=true)
