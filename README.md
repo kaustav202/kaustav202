@@ -52,8 +52,9 @@ You can click the Preview link to take a look at your changes.
 ![Reactjs](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
 ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)&nbsp;
-![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=Apache&logoColor=white)&nbsp;
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=Apache&logoColor=white)
+<!--      
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) -->
 <!-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)&nbsp; -->
 
 
@@ -196,7 +197,7 @@ You can click the Preview link to take a look at your changes.
 
 </br>
 
-# 📆🗓️ Contribution Calender 
+## &nbsp; 🗓️  Contribution Calender and Radar
 
 <img src ="profile-3d-contrib/profile-customize.svg"/>
 
