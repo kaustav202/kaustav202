@@ -273,7 +273,7 @@ You can click the Preview link to take a look at your changes.
 </br>
 </br>
 
-## &nbsp; 🗓️  Contribution Calender and Radar
+# &nbsp; 🗓️  Contribution Calender and Radar
 
 <img src ="profile-3d-contrib/profile-customize.svg"/>
 
