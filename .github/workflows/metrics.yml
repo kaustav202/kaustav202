@@ -10,24 +10,31 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: R1 Brief Overview
+      - name: R1L Brief Overview
         uses: lowlighter/metrics@latest
         with:
-          filename: git-metrics/r1.svg
+          filename: git-metrics/r1l.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          plugin_lines: yes
+          base: header, introduction, activity, community, repositories
+          
+          
+      - name: R1R Recent Habbits
+        uses: lowlighter/metrics@latest
+        with:
+          filename: git-metrics/r1r.svg
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_habits: yes
           plugin_habits_charts: yes
-          plugin_lines: yes
-          base: header, introduction, activity, community, repositories
+          base: ""
     
-      - name: R2 Contributions
+      - name: R2L Contributions
         uses: lowlighter/metrics@latest
         with:
           filename: git-metrics/r2.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_notable: yes
-          plugin_notable_repositories: yes
           plugin_notable_indepth: yes
           plugin_notable_from: all
           plugin_notable_types: commit, pull_request, issue
@@ -35,7 +42,7 @@ jobs:
           plugin_followup_sections: user
           config_order: notable, followup
 
-      - name: R3 Interests
+      - name: R3 Deliberations
         uses: lowlighter/metrics@latest
         with:
           filename: git-metrics/r3.svg
@@ -47,7 +54,7 @@ jobs:
           plugin_topics: yes
           plugin_topics_mode: starred
           
-      - name: R4 My Activity
+      - name: R4 My Works
         uses: lowlighter/metrics@latest
         with:
           filename: git-metrics/r4.svg
@@ -61,6 +68,7 @@ jobs:
           plugin_starlists_languages: yes
           plugin_languages: yes
           plugin_languages_details: bytes-size, percentage
+          config_order: activity, repositories, starlists, languages
           
           
       - name: R5 Community Activity on My Repo 
@@ -76,3 +84,4 @@ jobs:
           plugin_people_identicons: yes
           plugin_people_size: 16
           plugin_traffic: yes
+          config_order: stargazers, followup, traffic
