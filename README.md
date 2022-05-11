@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 <table width="100%" >
 
  <tr>
-    <td>
+    <td width="60%">
      
 ## 🛠️ Skills
 
@@ -87,10 +87,11 @@ You can click the Preview link to take a look at your changes.
   
 ## 📄📜 Stats
 
- </br>
 
 <p align="center">
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=kaustav202&theme=algolia&show_icons=true" />
+ </br>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=kaustav202"/>
  </br>
   <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustav202&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&theme=algolia" />
 </p>
@@ -268,4 +269,3 @@ You can click the Preview link to take a look at your changes.
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkaustav202%2Fhit-counter&count_bg=%236DAC3D&title_bg=%23555555&icon=grafana.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>  -->
 
 
-<!-- ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaustav202) -->
