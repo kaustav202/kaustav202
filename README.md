@@ -193,16 +193,18 @@ You can click the Preview link to take a look at your changes.
 -->
 
 
-<!-- <details> 
+<!-- 
+
+<details> 
  <summary> <h2> Here are some highlights of my open source journey </h2> </summary>
  
  
  
 <details>
 
-  <summary> <a href="#">   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Kaustav;Full+stack+web+developer...;Data+Science+Enthusiast...;Tech+Blogger...;Active+Open+Source+Contributor..."/>  </a> 
+  <summary> <h2> <a href="#">   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Kaustav;Full+stack+web+developer...;Data+Science+Enthusiast...;Tech+Blogger...;Active+Open+Source+Contributor..."/>  </a> 
  
-👆 Click To Expand!!</summary>
+   👆 Click To Expand!! </h2> </summary>
   
   <table>
    <h2> Section Link </h3> 
@@ -235,15 +237,30 @@ You can click the Preview link to take a look at your changes.
   
    <table>
      
-   <td><img src="git-metrics/r4.svg"/> </td>
-   <td><img src="git-metrics/r5.svg"/> </td>
+   <td><img src="git-metrics/r4l.svg"/> </td>
+   <td><img src="git-metrics/r4r.svg"/> </td>
      
  
  </table>
   
 </details>
+ 
+  <details>
 
-</details> -->
+  <summary> Others's collaboration my repos </summary>
+  
+   <table>
+     
+  <tr>   
+     <img src="git-metrics/r5.svg"/> 
+    </tr>   
+ 
+ </table>
+  
+</details>
+
+</details>
+ -->
 
 
 <!-- ## Here are some highlights of my open source journey 
@@ -252,6 +269,9 @@ You can click the Preview link to take a look at your changes.
 
 ## Here are some of my works
  -->
+
+</br>
+</br>
 
 ## &nbsp; 🗓️  Contribution Calender and Radar
 
