@@ -193,6 +193,59 @@ You can click the Preview link to take a look at your changes.
 -->
 
 
+<!-- <details> 
+ <summary> <h2> Here are some highlights of my open source journey </h2> </summary>
+ 
+ 
+ 
+<details>
+
+  <summary> <a href="#">   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Kaustav;Full+stack+web+developer...;Data+Science+Enthusiast...;Tech+Blogger...;Active+Open+Source+Contributor..."/>  </a> 
+ 
+👆 Click To Expand!!</summary>
+  
+  <table>
+   <h2> Section Link </h3> 
+ <tr>
+ <td> <img src="git-metrics/r1l.svg"/> </td>
+ <td> <img src="git-metrics/r1r.svg"/> </td>
+ </tr>
+ </table>
+  
+</details>
+
+ <details>
+
+  <summary> Open Source Work </summary>
+  
+   <table>
+     
+   <td><img src="git-metrics/r2.svg"/> </td>
+   <td><img src="git-metrics/r3.svg"/> </td>
+     
+ 
+ </table>
+  
+</details>
+ 
+ 
+ <details>
+
+  <summary> Useful Repos and Important Code </summary>
+  
+   <table>
+     
+   <td><img src="git-metrics/r4.svg"/> </td>
+   <td><img src="git-metrics/r5.svg"/> </td>
+     
+ 
+ </table>
+  
+</details>
+
+</details> -->
+
+
 <!-- ## Here are some highlights of my open source journey 
 
  ### - Activity Smmary and Overview
