@@ -9,7 +9,6 @@
 
 ## ⚡🙋‍♂️ About Me   
 
-</br>
 
 - 🔧 I’m currently working on ...Online Retail Community App.
 
