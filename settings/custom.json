@@ -1,8 +1,8 @@
 {
   "type": "normal",
   "backgroundColor": "transparent",
-  "foregroundColor": "black",
-  "strongColor": "black",
+  "foregroundColor": "#000033",
+  "strongColor": "#000033",
   "weakColor": "gray",
   "radarColor": "#aaf683",
   "growingAnimation": true,
