@@ -193,14 +193,13 @@ You can click the Preview link to take a look at your changes.
 
 -->
 
-
-![Recent Contribution Graph](https://activity-graph.herokuapp.com/graph?username=kaustav202&custom_title=Recent%20Contribution%20Graph&bg_color=ffffff&color=aab2fe&line=6498b0&point=FFFFFF&theme=react-dark&hide_border=true&area=true&hide_title=true)
-
 </br>
 
 ## &nbsp; 🗓️  Contribution Calender and Radar
 
 <img src ="profile-3d-contrib/profile-customize.svg"/>
+
+![Recent Contribution Graph](https://activity-graph.herokuapp.com/graph?username=kaustav202&custom_title=Recent%20Contribution%20Graph&bg_color=ffffff&color=aab2fe&line=6498b0&point=FFFFFF&theme=react-dark&hide_border=true&area=true&hide_title=true)
 
 
 <div align="center">
