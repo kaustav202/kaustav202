@@ -174,8 +174,16 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [fossasia/loklak_heatmapper](https://github.com/fossasia/loklak_heatmapper)
+2. ⭐ Starred [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+3. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+4. ⭐ Starred [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
+5. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+<!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
+Last Updated: Thursday, May 12th, 2022, 7:46:37 AM
+<!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- 
 # Featured Repositories 🚀
