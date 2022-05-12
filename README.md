@@ -172,6 +172,11 @@ You can click the Preview link to take a look at your changes.
 
 -->
 
+
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
+
 <!-- 
 # Featured Repositories 🚀
 
