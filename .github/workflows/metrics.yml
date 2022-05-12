@@ -14,6 +14,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: git-metrics/r1l.svg
+          output_action: pull-request
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_lines: yes
           base: header, introduction, activity, community, repositories
@@ -23,6 +24,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: git-metrics/r1r.svg
+          output_action: pull-request
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_habits: yes
           plugin_habits_charts: yes
@@ -32,6 +34,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: git-metrics/r2.svg
+          output_action: pull-request
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_notable: yes
@@ -46,6 +49,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: git-metrics/r3.svg
+          output_action: pull-request
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_discussions: yes
@@ -58,6 +62,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: git-metrics/r4l.svg
+          output_action: pull-request
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_activity: yes
@@ -70,6 +75,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: git-metrics/r4r.svg
+          output_action: pull-request
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_starlists: yes
@@ -83,6 +89,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: git-metrics/r5.svg
+          output_action: pull-request-merge
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_stargazers: yes
