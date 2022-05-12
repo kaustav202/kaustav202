@@ -174,11 +174,11 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [lowlighter/rakun](https://github.com/lowlighter/rakun)
-2. ⭐ Starred [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter)
-3. ⭐ Starred [fossasia/loklak_heatmapper](https://github.com/fossasia/loklak_heatmapper)
-4. ⭐ Starred [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-5. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. 📖 Created new wiki page [Home](https://github.com/kaustav202/JS-DOM-Snippets/wiki/Home) in [kaustav202/JS-DOM-Snippets](https://github.com/kaustav202/JS-DOM-Snippets)
+2. ⭐ Starred [lowlighter/rakun](https://github.com/lowlighter/rakun)
+3. ⭐ Starred [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter)
+4. ⭐ Starred [fossasia/loklak_heatmapper](https://github.com/fossasia/loklak_heatmapper)
+5. ⭐ Starred [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 <!--RECENT_ACTIVITY:end-->
 
 
