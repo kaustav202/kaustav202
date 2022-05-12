@@ -181,9 +181,6 @@ You can click the Preview link to take a look at your changes.
 5. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 <!--RECENT_ACTIVITY:end-->
 
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 12th, 2022, 7:46:37 AM
-<!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- 
 # Featured Repositories 🚀
