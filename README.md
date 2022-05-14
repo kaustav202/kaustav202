@@ -1,6 +1,6 @@
 # Hey there👋, Welcome to my Github Profile
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Kaustav;Full+stack+web+developer...;Data+Science+Enthusiast...;Tech+Blogger...;gdbhfhbf;zfzdgdfdhcfh;fgcfhcghnhhcfhcgjvgjmvhkmbhkbk,Active+Open+Source+Contributor..."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Kaustav;Full+stack+web+developer...;Data+Science+Enthusiast...;Tech+Blogger...;Active+Open+Source+Contributor..."/>
  
  <p>- <i>Aspiring software developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing good code. Also regularly write technical content and articles for various popular tech sites.</i></p>
 
@@ -300,7 +300,7 @@ Featured Repositories.
 </br>
 </br>
 
-## &nbsp; 🗓️  Contribution Calender and Radar
+## &nbsp; &nbsp; 🗓️&nbsp; &nbsp;   Contribution Calender and Radar
 
 &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; <img width="80%" align="center" src ="profile-3d-contrib/profile-customize.svg"/>
 
@@ -312,7 +312,7 @@ Featured Repositories.
 ## &nbsp;&nbsp;🔥 My Moto
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img  src="https://readme-typing-svg.herokuapp.com?font=Soucre+Code+Pro&duration=1700&color=12263A&background=ffffff&multiline=true&width=800&height=220&lines=while(true);..+brain.init();..+if(+world.contains(open_source));....++s+%3D+open_source.login(kaustav202);....+s.explore();....+s.learn();....+s.contribute()"/>
+&nbsp;&nbsp;&nbsp;&nbsp; <img  src="https://readme-typing-svg.herokuapp.com?font=Soucre+Code+Pro&duration=1700&color=12263A&background=ffffff&multiline=true&width=800&height=220&lines=while(true);..+brain.init();..+if(+world.contains(open_source));....++s+%3D+open_source.login(kaustav202);....+s.explore();....+s.learn();....+s.contribute()"/>
 
 <div align="center">
  <b style = {font-weight: 600}>Visitors Count</b>
