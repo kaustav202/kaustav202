@@ -307,6 +307,12 @@ Featured Repositories.
 
 &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; <img  width="70%" align="center" src="https://activity-graph.herokuapp.com/graph?username=kaustav202&custom_title=Recent%20Contribution%20Graph&bg_color=ffffff&color=aab2fe&line=6498b0&point=FFFFFF&theme=react-dark&hide_border=true&area=true&hide_title=true"/>
 
+</br>
+
+## &nbsp;&nbsp;🔥 My Moto
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img  src="https://readme-typing-svg.herokuapp.com?font=Soucre+Code+Pro&duration=1700&color=12263A&background=ffffff&multiline=true&width=800&height=220&lines=while(true);..+brain.init();..+if(+world.contains(open_source));....++s+%3D+open_source.login(kaustav202);....+s.explore();....+s.learn();....+s.contribute()"/>
 
 <div align="center">
  <b style = {font-weight: 600}>Visitors Count</b>
