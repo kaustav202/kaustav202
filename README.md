@@ -288,6 +288,12 @@ Featured Repositories.
 </details>
  -->
 
+## &nbsp;  📙📘 &nbsp; Recent Articles and Blog Posts 
+
+<!-- BLOG-POST-LIST:START -->
+- [How Open Source can be only thing you need to kickstart your journey as a software developer Part2](https://medium.com/@kaustav_g/how-open-source-can-be-only-thing-you-need-to-kickstart-your-journey-as-a-software-developer-part2-656cab3f4a82?source=rss-d1e37ddd01e4------2)
+- [How Open Source can be only thing you need to kickstart your journey as a  software developer Part1](https://medium.com/@kaustav_g/how-open-source-can-be-only-thing-you-need-to-kickstart-your-journey-as-a-software-developer-part1-5529c29e3a8b?source=rss-d1e37ddd01e4------2)
+<!-- BLOG-POST-LIST:END -->
 
 <!-- ## Here are some highlights of my open source journey 
 
@@ -306,16 +312,6 @@ Featured Repositories.
 
 &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; <img  width="70%" align="center" src="https://activity-graph.herokuapp.com/graph?username=kaustav202&custom_title=Recent%20Contribution%20Graph&bg_color=ffffff&color=aab2fe&line=6498b0&point=FFFFFF&theme=react-dark&hide_border=true&area=true&hide_title=true"/>
 
-</br>
-</br>
-
-
-## &nbsp; 📕  Latest Articles and Blog Posts 
-
-<!-- BLOG-POST-LIST:START -->
-- [How Open Source can be only thing you need to kickstart your journey as a software developer Part2](https://medium.com/@kaustav_g/how-open-source-can-be-only-thing-you-need-to-kickstart-your-journey-as-a-software-developer-part2-656cab3f4a82?source=rss-d1e37ddd01e4------2)
-- [How Open Source can be only thing you need to kickstart your journey as a  software developer Part1](https://medium.com/@kaustav_g/how-open-source-can-be-only-thing-you-need-to-kickstart-your-journey-as-a-software-developer-part1-5529c29e3a8b?source=rss-d1e37ddd01e4------2)
-<!-- BLOG-POST-LIST:END -->
 
 </br>
 
@@ -324,6 +320,8 @@ Featured Repositories.
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <img  src="https://readme-typing-svg.herokuapp.com?font=Soucre+Code+Pro&duration=1700&color=12263A&background=ffffff&multiline=true&width=650&height=220&lines=while(true);..+brain.init();..+if(+world.contains(open_source));....++s+%3D+open_source.login(kaustav202);....+s.explore();....+s.learn();....+s.contribute()"/>
 
+
+
 <div align="center">
  <b style = {font-weight: 600}>Visitors Count</b>
 
@@ -331,6 +329,7 @@ Featured Repositories.
 <br>
 </div>
  
+
  
 <!-- 
 <details>
@@ -354,6 +353,7 @@ Featured Repositories.
   
  </details>
  -->
+
 
 ## &nbsp; &nbsp; 📬📥 &nbsp; Connnect with Me
 
