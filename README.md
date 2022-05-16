@@ -307,6 +307,15 @@ Featured Repositories.
 &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; <img  width="70%" align="center" src="https://activity-graph.herokuapp.com/graph?username=kaustav202&custom_title=Recent%20Contribution%20Graph&bg_color=ffffff&color=aab2fe&line=6498b0&point=FFFFFF&theme=react-dark&hide_border=true&area=true&hide_title=true"/>
 
 </br>
+</br>
+
+
+## &nbsp; 📕  Latest Articles and Blog Posts 
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+</br>
 
 ## &nbsp; &nbsp; &nbsp;🔥 My Moto
 
@@ -319,16 +328,6 @@ Featured Repositories.
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{kaustav202}/count.svg" /></p> 
 <br>
 </div>
-
-
-<!--  Only Opening comment tag , Update username in wf file to run
-
-# 📕  Latest Blog Posts 
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-
  
  
 <!-- 
