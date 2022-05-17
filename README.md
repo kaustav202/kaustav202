@@ -287,14 +287,10 @@ Featured Repositories.
 
 </details>
  -->
+ 
+ 
 
-## &nbsp;  📙📘 &nbsp; Recent Articles and Blog Posts 
-
-<!-- BLOG-POST-LIST:START -->
-- [How Open Source can be only thing you need to kickstart your journey as a software developer Part2](https://medium.com/@kaustav_g/how-open-source-can-be-only-thing-you-need-to-kickstart-your-journey-as-a-software-developer-part2-656cab3f4a82?source=rss-d1e37ddd01e4------2)
-- [How Open Source can be only thing you need to kickstart your journey as a  software developer Part1](https://medium.com/@kaustav_g/how-open-source-can-be-only-thing-you-need-to-kickstart-your-journey-as-a-software-developer-part1-5529c29e3a8b?source=rss-d1e37ddd01e4------2)
-<!-- BLOG-POST-LIST:END -->
-
+  
 <!-- ## Here are some highlights of my open source journey 
 
  ### - Activity Smmary and Overview
@@ -315,6 +311,33 @@ Featured Repositories.
 
 </br>
 
+  <table  >
+ <tr>
+  
+
+
+  <td width="75%" align = "left">
+
+   <h3>  &nbsp; &nbsp; 📙📘 &nbsp;Recent Articles and Blog Posts  </h3>
+
+   
+<!-- BLOG-POST-LIST:START -->
+- [How Open Source can be only thing you need to kickstart your journey as a software developer Part2](https://medium.com/@kaustav_g/how-open-source-can-be-only-thing-you-need-to-kickstart-your-journey-as-a-software-developer-part2-656cab3f4a82?source=rss-d1e37ddd01e4------2)
+- [How Open Source can be only thing you need to kickstart your journey as a  software developer Part1](https://medium.com/@kaustav_g/how-open-source-can-be-only-thing-you-need-to-kickstart-your-journey-as-a-software-developer-part1-5529c29e3a8b?source=rss-d1e37ddd01e4------2)
+<!-- BLOG-POST-LIST:END -->
+
+  </td>
+  
+  <td width="600px">
+   
+  </td>
+  
+ </tr>
+ </table>
+ 
+ 
+ </br>
+ 
 ## &nbsp; &nbsp; &nbsp;🔥 My Moto
 
 
