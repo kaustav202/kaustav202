@@ -340,6 +340,12 @@ Featured Repositories.
   <td width="600px">
    
    <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [abhijeet007rocks8/Dev-Scripts](https://github.com/abhijeet007rocks8/Dev-Scripts)
+2. ⭐ Starred [vigneshshettyin/Meetly](https://github.com/vigneshshettyin/Meetly)
+3. ⭐ Starred [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
+4. 💬 Commented on [#105](https://github.com/codezoned/join_codezoned/issues/105#issuecomment-1135424090) in [codezoned/join_codezoned](https://github.com/codezoned/join_codezoned)
+5. ❗️ Opened issue [#103](https://github.com/CodeVisors/support/issues/103) in [CodeVisors/support](https://github.com/CodeVisors/support)
+<!--RECENT_ACTIVITY:end-->
    
   </td>
   
