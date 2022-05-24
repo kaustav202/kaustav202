@@ -339,6 +339,8 @@ Featured Repositories.
   
   <td width="600px">
    
+   <!--RECENT_ACTIVITY:start-->
+   
   </td>
   
  </tr>
