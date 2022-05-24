@@ -310,11 +310,29 @@ Featured Repositories.
 </br>
 
 ## &nbsp; &nbsp; 🗓️&nbsp; &nbsp;   Contribution Calender and Radar
+ 
+<img width="77%" align="left" src ="profile-3d-contrib/profile-customize.svg"/> &nbsp; &nbsp;
+ 
+<h4 width="15%" > Recent Activity </h4> 
+ 
+<!--<!--RECENT_ACTIVITY:start-->
 
-&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; <img width="80%" align="center" src ="profile-3d-contrib/profile-customize.svg"/>
+ 
+1. ⭐ Starred [abhijeet007rocks8/Dev-Scripts](https://github.com/abhijeet007rocks8/Dev-Scripts)
+2. ⭐ Starred [vigneshshettyin/Meetly](https://github.com/vigneshshettyin/Meetly)
+3. ⭐ Starred [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
+4. ❗️ Opened issue [#103](https://github.com/CodeVisors/support/issues/103) in [CodeVisors/support](https://github.com/CodeVisors/support)
+5. 🔱 Forked [kaustav202/fyle-interview-backend](https://github.com/kaustav202/fyle-interview-backend) from [fylein/fyle-interview-backend](https://github.com/fylein/fyle-interview-backend)
+6. ❗️ Opened issue [#169](https://github.com/dev-protocol/community/issues/169) in [dev-protocol/community](https://github.com/dev-protocol/community)
+7. 💪 Opened PR [#160](https://github.com/fnplus/join-fnplus-with-a-pr/pull/160) in [fnplus/join-fnplus-with-a-pr](https://github.com/fnplus/join-fnplus-with-a-pr)
+8. 🔱 Forked [kaustav202/join-fnplus-with-a-pr](https://github.com/kaustav202/join-fnplus-with-a-pr) from [fnplus/join-fnplus-with-a-pr](https://github.com/fnplus/join-fnplus-with-a-pr)
+9. ❗️ Opened issue [#3166](https://github.com/public-apis/public-apis/issues/3166) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
+10. 💪 Opened PR [#3165](https://github.com/public-apis/public-apis/pull/3165) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
+<!--RECENT_ACTIVITY:end-->
+ 
 
 
-&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; <img  width="70%" align="center" src="https://activity-graph.herokuapp.com/graph?username=kaustav202&custom_title=Recent%20Contribution%20Graph&bg_color=ffffff&color=aab2fe&line=6498b0&point=FFFFFF&theme=react-dark&hide_border=true&area=true&hide_title=true"/>
+<img  width="70%" align="left" src="https://activity-graph.herokuapp.com/graph?username=kaustav202&custom_title=Recent%20Contribution%20Graph&bg_color=ffffff&color=aab2fe&line=6498b0&point=FFFFFF&theme=react-dark&hide_border=true&area=true&hide_title=true"/>
 
 
 </br>
@@ -338,19 +356,6 @@ Featured Repositories.
   </td>
   
   <td width="600px">
-   
-   <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [abhijeet007rocks8/Dev-Scripts](https://github.com/abhijeet007rocks8/Dev-Scripts)
-2. ⭐ Starred [vigneshshettyin/Meetly](https://github.com/vigneshshettyin/Meetly)
-3. ⭐ Starred [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
-4. ❗️ Opened issue [#103](https://github.com/CodeVisors/support/issues/103) in [CodeVisors/support](https://github.com/CodeVisors/support)
-5. 🔱 Forked [kaustav202/fyle-interview-backend](https://github.com/kaustav202/fyle-interview-backend) from [fylein/fyle-interview-backend](https://github.com/fylein/fyle-interview-backend)
-6. ❗️ Opened issue [#169](https://github.com/dev-protocol/community/issues/169) in [dev-protocol/community](https://github.com/dev-protocol/community)
-7. 💪 Opened PR [#160](https://github.com/fnplus/join-fnplus-with-a-pr/pull/160) in [fnplus/join-fnplus-with-a-pr](https://github.com/fnplus/join-fnplus-with-a-pr)
-8. 🔱 Forked [kaustav202/join-fnplus-with-a-pr](https://github.com/kaustav202/join-fnplus-with-a-pr) from [fnplus/join-fnplus-with-a-pr](https://github.com/fnplus/join-fnplus-with-a-pr)
-9. ❗️ Opened issue [#3166](https://github.com/public-apis/public-apis/issues/3166) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
-10. 💪 Opened PR [#3165](https://github.com/public-apis/public-apis/pull/3165) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
-<!--RECENT_ACTIVITY:end-->
    
   </td>
   
