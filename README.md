@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Kaustav;Full+stack+web+developer...;Data+Science+Enthusiast...;Tech+Blogger...;Active+Open+Source+Contributor..."/>
  
- <p>- <i>A comp-sci undergraduate student and a aspiring software developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing good quality code. Also regularly write technical content and articles for various popular tech sites.</i></p>
+ <p>- <i>A comp-sci undergraduate student and a aspiring software developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing good quality code. Also regularly write technical blogs and articles for various popular tech sites.</i></p>
 
 
 
@@ -13,12 +13,15 @@
 
 </br>
 
-- 🔧 I’m currently working on ...Online Retail Community App.
-
-- 💡 I’m curious about ...Blockchain and Crypto Currency.
-- 📖 I’m currently learning ...Flask.
-- ❄️ I’m looking to collaborate on ...Open Source Projects.
-- 📫 How to reach me ...gkaustav57@gmail.com.
+- 🎨 I’m currently involved in...  writing, sharing insights, and networking.
+- 🗃️ My Stacks 👉  **MERN** , **MEVN** , **RDS** ( React + Django + Sqlite ), **FARM**  ( Fastapi + React + Node )
+- 🔧 My DS Skills... Big Data, Data Mining and Analytics.
+- 💡 I’m curious about ...**Blockchain** and **Crypto Currency**.
+- 📖 I’m currently learning... advanced algorithms and  strengthening CS core concepts.
+- 🤖 My future profile outlook.. **AI**/ **ML**/ **Data Science**.
+- ❄️ I’m looking to collaborate on... useful Open Source Projects.
+- 🤝 Get in touch to.. participate in hackathons or coding competetions (Team)
+- 📩 How to reach me ... **check out my socials** [below👇](https://github.com/kaustav202/kaustav202/edit/main/README.md#----connnect-with-me)**!!**
 
 </details>
 
