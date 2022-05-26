@@ -322,7 +322,9 @@ Featured Repositories.
 
 <h4 width="15%" > Recent Activity </h4> 
  
-<!--<!--RECENT_ACTIVITY:start-->
+<!-- 
+
+<!--RECENT_ACTIVITY:start-->
 
  
 1. ⭐ Starred [abhijeet007rocks8/Dev-Scripts](https://github.com/abhijeet007rocks8/Dev-Scripts)
