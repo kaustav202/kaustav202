@@ -331,10 +331,6 @@ Featured Repositories.
 4. ⭐ Starred [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
 5. ❗️ Opened issue [#103](https://github.com/CodeVisors/support/issues/103) in [CodeVisors/support](https://github.com/CodeVisors/support)
 6. 🔱 Forked [kaustav202/fyle-interview-backend](https://github.com/kaustav202/fyle-interview-backend) from [fylein/fyle-interview-backend](https://github.com/fylein/fyle-interview-backend)
-7. ❗️ Opened issue [#169](https://github.com/dev-protocol/community/issues/169) in [dev-protocol/community](https://github.com/dev-protocol/community)
-8. 💪 Opened PR [#160](https://github.com/fnplus/join-fnplus-with-a-pr/pull/160) in [fnplus/join-fnplus-with-a-pr](https://github.com/fnplus/join-fnplus-with-a-pr)
-9. 🔱 Forked [kaustav202/join-fnplus-with-a-pr](https://github.com/kaustav202/join-fnplus-with-a-pr) from [fnplus/join-fnplus-with-a-pr](https://github.com/fnplus/join-fnplus-with-a-pr)
-10. ❗️ Opened issue [#3166](https://github.com/public-apis/public-apis/issues/3166) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
 <!--RECENT_ACTIVITY:end-->
 
 </br>
