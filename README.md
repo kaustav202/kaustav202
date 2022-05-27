@@ -1,3 +1,5 @@
+<!-- <img src="https://user-images.githubusercontent.com/89788120/170633304-e28e3b62-84d4-45b1-bcff-60b9241e3d7a.png" align="left"/>
+ -->
 
 # Hey there👋, Welcome to my Github Profile
 
@@ -9,6 +11,7 @@
  
  <summary> <h2> ⚡🙋‍♂️ About Me </h2> </summary>
 
+ 
 
 </br>
 
@@ -26,8 +29,6 @@
 
 <img src="https://user-images.githubusercontent.com/89788120/170629441-5931b616-8b02-4cbd-abad-8bc12c049e03.png" width="35%" align="left"/>
 
-<!-- 
-<img src="https://user-images.githubusercontent.com/89788120/170630709-6f2bfc50-afe0-4321-b3c2-6b151e40dc29.png" width="40%" align="right"/> -->
 
 
 
@@ -39,6 +40,7 @@ kaustav202/kaustav202 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 
 --->
+
 
 
 </br>
@@ -345,7 +347,7 @@ Featured Repositories.
   
 
 
-  <td width="75%" align = "left">
+  <td width="65%" align = "left">
 
    <h3>  &nbsp; &nbsp; <b> 📕 </b> &nbsp;Recent Articles and Blog Posts  </h3>
 
@@ -359,6 +361,9 @@ Featured Repositories.
   </td>
   
   <td width="600px">
+   
+   
+<img src="https://user-images.githubusercontent.com/89788120/170630709-6f2bfc50-afe0-4321-b3c2-6b151e40dc29.png" align="right"/> 
    
   </td>
   
