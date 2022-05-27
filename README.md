@@ -28,10 +28,10 @@
 - 📩 How to reach me ... **check out my socials** [below👇](https://github.com/kaustav202#----connnect-with-me)**!!**
 
 
-
+ 
 </details>
 
-
+<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="75%" align="right" />
 
 
 <hr width="100%">
@@ -190,24 +190,33 @@ You can click the Preview link to take a look at your changes.
 
 -->
 
+<details>
+ 
+ <summary>
+ 
+  <h3> <img src="https://img.icons8.com/stickers/16/000000/down-left-arrow.png"/> </h3>
+  
+  <h2> &nbsp;  Featured Repositories 🚀 </h2>
+  </summary> 
 
+</br>
 
-<!-- 
-# Featured Repositories 🚀
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=RealTime-TwitterDataAnalysis&theme=swift"/> &nbsp; &nbsp;&nbsp;&nbsp; <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=News-Accumulator&theme=buefy"/> 
 
+</br>
 
-<img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=RealTime-TwitterDataAnalysis&theme=swift"/> &nbsp; <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=News-Accumulator&theme=buefy"/> &nbsp; <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=JS-DOM-Snippets&theme=vue"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=JS-DOM-Snippets&theme=vue"/>  &nbsp;&nbsp; &nbsp; &nbsp; <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=IPL-Statistical-Analysis&theme=swift&title_color=000000"/>
 
-<img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=IPL-Statistical-Analysis&theme=moltack&title_color=000000"/>
+</br>
 
-<img width="30%" src = "https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=Gamer-Hub"/>
+<img width="48%" src = "https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=Gamer-Hub&theme=buefy"/> &nbsp;&nbsp; &nbsp;  &nbsp;<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=Tech-Vision&theme=vue"/> 
 
-<img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=Tech-Vision"/>
+</br>
 
-<img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=HomePal&theme=vue"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=Directory-Tree-Generator&theme=swift"/>&nbsp;&nbsp; &nbsp; &nbsp; 
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=HomePal&theme=buefy"/>
 
-<img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=Directory-Tree-Generator&theme=apprentice"/>
- -->
+ </details>
 
 <!--
 
