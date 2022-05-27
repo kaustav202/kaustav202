@@ -13,21 +13,23 @@
 
  
 
+<img src="https://user-images.githubusercontent.com/89788120/170629441-5931b616-8b02-4cbd-abad-8bc12c049e03.png" width="35%" align="right"/>
+
 </br>
 
 - 🎨 I’m currently involved in...  writing, sharing insights, and networking.
-- 🗃️ My Stacks 👉  **MERN** , **MEVN** , **RDS** ( React + Django + Sqlite ), **FARM**  ( Fastapi + React + Node )
+- 🗃️ My Stacks 👉  **MERN** , **MEVN** , **RDS** (Django), **FARM**  (Fastapi)
 - 🔧 My DS Skills... Big Data, Data Mining and Analytics.
 - 💡 I’m curious about ...**Blockchain** and **Crypto Currency**.
-- 📖 I’m currently learning... advanced algorithms and  strengthening CS core concepts.
+- 📖 I’m currently learning... advanced algorithms and CS core concepts.
 - 🤖 Future profile outlook.. **AI**/ **ML**/ **Data Science**.
 - ❄️ I’m looking to collaborate on... useful Open Source Projects.
 - 🤝 Get in touch to.. participate in hackathons or coding competetions (Team)
 - 📩 How to reach me ... **check out my socials** [below👇](https://github.com/kaustav202#----connnect-with-me)**!!**
 
-</details>
 
-<img src="https://user-images.githubusercontent.com/89788120/170629441-5931b616-8b02-4cbd-abad-8bc12c049e03.png" width="35%" align="left"/>
+
+</details>
 
 
 
@@ -318,7 +320,7 @@ Featured Repositories.
 </br>
 </br>
 
-## &nbsp; &nbsp; 🗓️&nbsp; &nbsp;   Contribution Calender and Radar
+##   🗓️&nbsp; &nbsp;   Contribution Overview and Activity 
  
 <img width="77%" align="left" src ="profile-3d-contrib/profile-customize.svg"/> &nbsp; &nbsp;
  
