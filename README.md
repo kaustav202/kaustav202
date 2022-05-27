@@ -1,3 +1,4 @@
+
 # Hey there👋, Welcome to my Github Profile
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Kaustav;Full+stack+web+developer...;Data+Science+Enthusiast...;Tech+Blogger...;Active+Open+Source+Contributor..."/>
@@ -23,10 +24,14 @@
 
 </details>
 
- 
-<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="75%" align="right" />
+<img src="https://user-images.githubusercontent.com/89788120/170629441-5931b616-8b02-4cbd-abad-8bc12c049e03.png" width="35%" align="left"/>
 
-<hr>
+<!-- 
+<img src="https://user-images.githubusercontent.com/89788120/170630709-6f2bfc50-afe0-4321-b3c2-6b151e40dc29.png" width="40%" align="right"/> -->
+
+
+
+<hr width="100%">
 
 <!---
 
@@ -320,7 +325,7 @@ Featured Repositories.
 <img  width="77%" align="left" src="https://activity-graph.herokuapp.com/graph?username=kaustav202&custom_title=Recent%20Contribution%20Graph&bg_color=ffffff&color=aab2fe&line=6498b0&point=FFFFFF&theme=react-dark&hide_border=true&area=true&hide_title=true"/>
 
 
-<h4 width="15%" > Recent Activity </h4> 
+<h4 width="15%" align="left"> Recent Activity </h4> 
  
 <!-- 
 
