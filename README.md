@@ -13,7 +13,7 @@
  <summary> <h2> ⚡🙋‍♂️ About Me </h2> </summary>
 
  
-<img src="https://user-images.githubusercontent.com/89788120/170840709-da7f23c8-1422-476f-9bf6-2e9c32500da0.gif" width="35%"/>
+<img src="https://user-images.githubusercontent.com/89788120/170629441-5931b616-8b02-4cbd-abad-8bc12c049e03.png" width="35%" align="right"/>
  
 </br>
 
@@ -31,7 +31,10 @@
  
 </details>
 
-<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="75%" align="right" />
+
+
+ 
+<img src="https://user-images.githubusercontent.com/89788120/170840709-da7f23c8-1422-476f-9bf6-2e9c32500da0.gif" width="65%" align="left"/>
 
 
 <hr width="100%">
