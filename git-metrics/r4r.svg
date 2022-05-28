@@ -130,7 +130,7 @@
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                                 </svg>
-                                                95.8k
+                                                95.9k
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
@@ -275,29 +275,29 @@
                                                 <path fill-rule="evenodd" d="M4 5.75C4 4.784 4.784 4 5.75 4h4.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0110.25 12h-4.5A1.75 1.75 0 014 10.25v-4.5zm1.75-.25a.25.25 0 00-.25.25v4.5c0 .138.112.25.25.25h4.5a.25.25 0 00.25-.25v-4.5a.25.25 0 00-.25-.25h-4.5z"/>
                                             </svg>
                                             <div class="name">
-                                                <span>IndianOpenSourceFoundation/dynamic-cli</span>
+                                                <span>FedgeHund/mrktdb</span>
                                                 <span></span>
                                             </div>
                                         </div>
-                                        <div class="field description">A Modern, user-friendly command-line HTTP client for the API testing, and if you're stuck - Search and browse StackOverflow without leaving the CLI</div>
+                                        <div class="field description">MrktDB is a platform for alternative market data and insights into Hedge Fund holdings that help investors generate Alpha.</div>
                                         <div class="field infos">
                                             <div class="language">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#3572a5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                Python
+                                                JavaScript
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                                 </svg>
-                                                147
+                                                11
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                                 </svg>
-                                                124
+                                                7
                                             </div>
                                         </div>
                                     </section>
@@ -309,29 +309,29 @@
                                                 <path fill-rule="evenodd" d="M4 5.75C4 4.784 4.784 4 5.75 4h4.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0110.25 12h-4.5A1.75 1.75 0 014 10.25v-4.5zm1.75-.25a.25.25 0 00-.25.25v4.5c0 .138.112.25.25.25h4.5a.25.25 0 00.25-.25v-4.5a.25.25 0 00-.25-.25h-4.5z"/>
                                             </svg>
                                             <div class="name">
-                                                <span>Lakhankumawat/LearnCPP</span>
+                                                <span>khushi-purwar/WebDev-ProjectKart</span>
                                                 <span></span>
                                             </div>
                                         </div>
-                                        <div class="field description">Learn Cpp from Beginner to Advanced  Practice  Code  Repeat  One step solution for c++ beginners and cp enthusiasts.</div>
+                                        <div class="field description">The repository contains the list of awesome &amp; cool web development beginner-friendly projects!</div>
                                         <div class="field infos">
                                             <div class="language">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                C++
+                                                JavaScript
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                                 </svg>
-                                                291
+                                                67
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                                 </svg>
-                                                471
+                                                204
                                             </div>
                                         </div>
                                     </section>
@@ -356,12 +356,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="209.58937900796982" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="209.58937900796982" y="0" width="111.41916449835072" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="321.00854350632056" y="0" width="76.50330881599704" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="397.5118523223176" y="0" width="56.33583970169436" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="453.84769202401196" y="0" width="3.1251613431949026" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="456.9728533672069" y="0" width="3.0271466327931327" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="209.46792717861143" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="209.46792717861143" y="0" width="111.35459986526692" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="320.8225270438783" y="0" width="76.7255356049577" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="397.54806264883604" y="0" width="56.30319448454358" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="453.85125713337965" y="0" width="3.1233503899683237" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="456.97460752334797" y="0" width="3.0253924766520672" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -374,7 +374,7 @@
                             </div>
                             <small>
                                 <div>222 kB</div>
-                                <div>45.56%</div>
+                                <div>45.54%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -385,8 +385,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>81.1 kB</div>
-                                <div>16.63%</div>
+                                <div>81.4 kB</div>
+                                <div>16.68%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -412,7 +412,7 @@
                             </div>
                             <small>
                                 <div>118 kB</div>
-                                <div>24.22%</div>
+                                <div>24.21%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -424,7 +424,7 @@
                             </div>
                             <small>
                                 <div>59.7 kB</div>
-                                <div>12.25%</div>
+                                <div>12.24%</div>
                             </small>
                         </div>
                         <div class="field language details">
