@@ -1,6 +1,7 @@
 <!-- <img src="https://user-images.githubusercontent.com/89788120/170633304-e28e3b62-84d4-45b1-bcff-60b9241e3d7a.png" align="left"/>
  -->
 
+
 # Hey there👋, Welcome to my Github Profile
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Kaustav;Full+stack+web+developer...;Data+Science+Enthusiast...;Tech+Blogger...;Active+Open+Source+Contributor..."/>
@@ -12,9 +13,8 @@
  <summary> <h2> ⚡🙋‍♂️ About Me </h2> </summary>
 
  
-
-<img src="https://user-images.githubusercontent.com/89788120/170629441-5931b616-8b02-4cbd-abad-8bc12c049e03.png" width="35%" align="right"/>
-
+<img src="https://user-images.githubusercontent.com/89788120/170840709-da7f23c8-1422-476f-9bf6-2e9c32500da0.gif" width="35%"/>
+ 
 </br>
 
 - 🎨 I’m currently involved in...  writing, sharing insights, and networking.
