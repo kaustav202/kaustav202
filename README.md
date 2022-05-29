@@ -43,7 +43,7 @@
 
 <hr width="100%">
 
-![Untitled (1100 × 150 px) (1100 × 130 px) (1)](https://user-images.githubusercontent.com/89788120/170877741-bc38414a-9801-48ce-9ca3-e74760faf3c8.gif)
+<img src="https://user-images.githubusercontent.com/89788120/170883412-24448a76-8559-4266-b008-c4f1acf67a5f.gif" width="80%"/> 
 
  
 <!---
