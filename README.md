@@ -10,7 +10,7 @@
 
 <details>
  
- <summary> <h2> &nbsp;&nbsp;⚡🙋‍♂️ About Me </h2> </summary>
+ <summary> <h2> &nbsp;&nbsp;&nbsp;⚡🙋‍♂️ About Me </h2> </summary>
 
  
 <img src="https://user-images.githubusercontent.com/89788120/170629441-5931b616-8b02-4cbd-abad-8bc12c049e03.png" width="35%" align="right"/>
@@ -34,7 +34,7 @@
 
 
  
-<img src="https://user-images.githubusercontent.com/89788120/170840709-da7f23c8-1422-476f-9bf6-2e9c32500da0.gif" width="40%" align="left"/>
+<img src="https://user-images.githubusercontent.com/89788120/170840709-da7f23c8-1422-476f-9bf6-2e9c32500da0.gif" width="45%" align="left"/>
 
 
 <hr width="100%">
