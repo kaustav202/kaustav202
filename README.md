@@ -31,20 +31,14 @@
  
 </details>
 
-
-
  
-<img src="https://user-images.githubusercontent.com/89788120/170840709-da7f23c8-1422-476f-9bf6-2e9c32500da0.gif" width="41%" align="left"/>
+<img src="https://user-images.githubusercontent.com/89788120/170840709-da7f23c8-1422-476f-9bf6-2e9c32500da0.gif" width="42%" align="left"/>
 
 
+<img src="https://user-images.githubusercontent.com/89788120/171056531-5afa6fb0-3b60-4bfd-9250-f7724c608aac.gif" width="90%" />
 
-<a href="https://github.com/kaustav202#%EF%B8%8F-skills"> <img src="https://dabuttonfactory.com/button.png?t=Skills&f=Pacifico&ts=20&tc=fff&tshs=1&tshc=170741&hp=30&vp=9&c=round&bgt=pyramid&bgc=fabd9b&ebgc=ff9950&be=1" /></a> &nbsp;&nbsp; <a href="https://github.com/kaustav202#---featured-repositories--"> <img src="https://dabuttonfactory.com/button.png?t=Repositories&f=Pacifico&ts=20&tc=fff&tshs=1&tshc=170741&hp=30&vp=9&c=round&bgt=pyramid&bgc=fabd9b&ebgc=ff9950&be=1" /> </a> &nbsp;&nbsp;<a href="https://github.com/kaustav202#%EF%B8%8F----contribution-overview-and-activity"> <img src="https://dabuttonfactory.com/button.png?t=Activity&f=Pacifico&ts=20&tc=fff&tshs=1&tshc=170741&hp=30&vp=9&c=round&bgt=pyramid&bgc=fabd9b&ebgc=ff9950&be=1" /> </a>&nbsp;&nbsp; <a href="https://github.com/kaustav202#-------recent-articles-and-blog-posts--" > <img src="https://dabuttonfactory.com/button.png?t=Blogs&f=Pacifico&ts=20&tc=fff&tshs=1&tshc=170741&hp=32&vp=9&c=round&bgt=pyramid&bgc=fabd9b&ebgc=ff9950&be=1" /> </a> &nbsp;&nbsp; <a href="https://github.com/kaustav202#----connnect-with-me"> <img src="https://dabuttonfactory.com/button.png?t=Contact&f=Pacifico&ts=20&tc=fff&tshs=1&tshc=170741&hp=32&vp=9&c=round&bgt=pyramid&bgc=fabd9b&ebgc=ff9950&be=1" /> </a>.
+<a href="https://github.com/kaustav202#%EF%B8%8F-skills"> <img src="https://dabuttonfactory.com/button.png?t=Skills&f=Pacifico&ts=19&tc=fff&tshs=1&tshc=170741&hp=30&vp=9&c=round&bgt=pyramid&bgc=fabd9b&ebgc=ff9950&be=1" /></a> &nbsp;&nbsp; <a href="https://github.com/kaustav202#---featured-repositories--"> <img src="https://dabuttonfactory.com/button.png?t=Repositories&f=Pacifico&ts=19&tc=fff&tshs=1&tshc=170741&hp=30&vp=9&c=round&bgt=pyramid&bgc=fabd9b&ebgc=ff9950&be=1" /> </a> &nbsp;&nbsp;<a href="https://github.com/kaustav202#%EF%B8%8F----contribution-overview-and-activity"> <img src="https://dabuttonfactory.com/button.png?t=Activity&f=Pacifico&ts=19&tc=fff&tshs=1&tshc=170741&hp=30&vp=9&c=round&bgt=pyramid&bgc=fabd9b&ebgc=ff9950&be=1" /> </a>&nbsp;&nbsp; <a href="https://github.com/kaustav202#-------recent-articles-and-blog-posts--" > <img src="https://dabuttonfactory.com/button.png?t=Blogs&f=Pacifico&ts=19&tc=fff&tshs=1&tshc=170741&hp=32&vp=9&c=round&bgt=pyramid&bgc=fabd9b&ebgc=ff9950&be=1" /> </a> &nbsp;&nbsp; <a href="https://github.com/kaustav202#----connnect-with-me"> <img src="https://dabuttonfactory.com/button.png?t=Contact&f=Pacifico&ts=19&tc=fff&tshs=1&tshc=170741&hp=32&vp=9&c=round&bgt=pyramid&bgc=fabd9b&ebgc=ff9950&be=1" /> </a>
 
-
-<hr width="100%">
-
-
-<img src="https://user-images.githubusercontent.com/89788120/170907755-07b6bd89-1430-427b-9aff-807f1025a31d.gif" width="95%"/>
 
  
 <!---
