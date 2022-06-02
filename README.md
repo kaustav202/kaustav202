@@ -347,12 +347,12 @@ Featured Repositories.
 <!-- 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-2. ⭐ Starred [djay/covidthailand](https://github.com/djay/covidthailand)
-3. ⭐ Starred [abhijeet007rocks8/Dev-Scripts](https://github.com/abhijeet007rocks8/Dev-Scripts)
-4. ⭐ Starred [vigneshshettyin/Meetly](https://github.com/vigneshshettyin/Meetly)
-5. ⭐ Starred [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
-6. ❗️ Opened issue [#103](https://github.com/CodeVisors/support/issues/103) in [CodeVisors/support](https://github.com/CodeVisors/support)
+1. ❗️ Opened issue [#190](https://github.com/Readme-Workflows/recent-activity/issues/190) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+2. ⭐ Starred [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+3. ⭐ Starred [djay/covidthailand](https://github.com/djay/covidthailand)
+4. ⭐ Starred [abhijeet007rocks8/Dev-Scripts](https://github.com/abhijeet007rocks8/Dev-Scripts)
+5. ⭐ Starred [vigneshshettyin/Meetly](https://github.com/vigneshshettyin/Meetly)
+6. ⭐ Starred [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
 <!--RECENT_ACTIVITY:end-->
 
 </br>
