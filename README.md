@@ -350,7 +350,6 @@ Featured Repositories.
 <!--RECENT_ACTIVITY:start-->
 1. ❗️ Opened issue [#190](https://github.com/Readme-Workflows/recent-activity/issues/190) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 2. ⭐ Starred [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-3. ⭐ Starred [djay/covidthailand](https://github.com/djay/covidthailand)
 <!--RECENT_ACTIVITY:end-->
 
 </br>
