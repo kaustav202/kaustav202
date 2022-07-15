@@ -17,8 +17,8 @@
  
 </br>
 
-- 🎨 I’m currently involved in...  writing, sharing insights, and networking.
-- 🗃️ My Stacks 👉  **MERN** , **MEVN** , **RDS** (Django), **FARM**  (Fastapi)
+- 🎨 I’m currently involved in...  building stuff, sharing insights, and networking.
+- 🗃️ My Stacks 👉  **MERN** , **RDS** (Django), **FARM**  (Fastapi)
 - 🔧 My DS Skills... Big Data, Data Mining and Analytics.
 - 💡 I’m curious about ...**Blockchain** and **Crypto Currency**.
 - 📖 I’m currently learning... advanced algorithms and CS core concepts.
