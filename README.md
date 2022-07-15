@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Kaustav;Full+stack+web+developer...;Data+Science+Enthusiast...;Tech+Blogger...;Active+Open+Source+Contributor..."/>
  
- <p>- <i>A comp-sci undergraduate student and a aspiring software developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing good quality code. Also regularly write technical blogs and articles for various popular tech sites.</i></p>
+ <p>- <i>A comp-sci undergraduate student and a software developer with good problem-solving skills. Able to perform well in a team. Passionate about programming and technology. Equipped with a diverse and promising skill-set, placing a special emphasis on system level thinking and good quality code. Also regularly write technical blogs and articles for various popular tech sites.</i></p>
 
 <details>
  
