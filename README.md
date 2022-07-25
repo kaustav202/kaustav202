@@ -364,7 +364,7 @@ Featured Repositories.
 <!-- 
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#190](https://github.com/Readme-Workflows/recent-activity/issues/190) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. 📔 Created new repository [kaustav202/TV-Show-Management-App](https://github.com/kaustav202/TV-Show-Management-App)
 <!--RECENT_ACTIVITY:end-->
 
 </br>
