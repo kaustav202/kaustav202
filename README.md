@@ -364,7 +364,12 @@ Featured Repositories.
 <!-- 
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [kaustav202/TV-Show-Management-App](https://github.com/kaustav202/TV-Show-Management-App)
+1. ⬆️ Pushed 1 commit(s) to [kaustav202/kaustav202](https://github.com/kaustav202/kaustav202)
+2. ⬆️ Pushed 1 commit(s) to [kaustav202/TV-Show-Management-App](https://github.com/kaustav202/TV-Show-Management-App)
+3. ⬆️ Pushed 1 commit(s) to [kaustav202/TV-Show-Management-App](https://github.com/kaustav202/TV-Show-Management-App)
+4. ⬆️ Pushed 1 commit(s) to [kaustav202/TV-Show-Management-App](https://github.com/kaustav202/TV-Show-Management-App)
+5. ⬆️ Pushed 1 commit(s) to [kaustav202/TV-Show-Management-App](https://github.com/kaustav202/TV-Show-Management-App)
+6. ⬆️ Pushed 1 commit(s) to [kaustav202/TV-Show-Management-App](https://github.com/kaustav202/TV-Show-Management-App)
 <!--RECENT_ACTIVITY:end-->
 
 </br>
