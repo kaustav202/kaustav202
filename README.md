@@ -387,6 +387,7 @@ Featured Repositories.
 
    
 <!-- BLOG-POST-LIST:START -->
+- [An outline to Virtualization in IT systems and Software Engineering — why it’s more significant…](https://medium.com/@kaustav_g/an-outline-to-virtualization-in-it-systems-and-software-engineering-why-its-more-significant-3c59007eb869?source=rss-d1e37ddd01e4------2)
 - [Python tricks and techniques to help you get the most out of the language Part 1](https://medium.com/@kaustav_g/python-tricks-and-techniques-to-help-you-get-the-most-out-of-the-language-1-85741e608054?source=rss-d1e37ddd01e4------2)
 - [Take your GitHub profile from zero to hero with these 10 hacks](https://medium.com/@kaustav_g/take-your-github-profile-from-zero-to-hero-with-these-10-hacks-b6b5ffe3d065?source=rss-d1e37ddd01e4------2)
 - [How Open Source can be only thing you need to kickstart your journey as a software developer Part2](https://medium.com/@kaustav_g/how-open-source-can-be-only-thing-you-need-to-kickstart-your-journey-as-a-software-developer-part2-656cab3f4a82?source=rss-d1e37ddd01e4------2)
