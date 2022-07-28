@@ -19,7 +19,6 @@
 
 - 🎨 I’m currently involved in...  building stuff, sharing insights, and networking.
 - 🗃️ My Stacks 👉  **MERN** , **RDS** (Django), **FARM**  (Fastapi)
-- 🔧 My DS Skills... Big Data, Data Mining and Analytics.
 - 💡 I’m curious about ...**Blockchain** and **Crypto Currency**.
 - 📖 I’m currently learning... advanced algorithms and CS core concepts.
 - 🤖 Future profile outlook.. **AI**/ **ML**/ **Data Science**.
@@ -104,11 +103,10 @@ You can click the Preview link to take a look at your changes.
  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)
-![ES Lint](https://img.shields.io/badge/eslint-3A33D1?style=flat&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=flat&logo=prettier&logoColor=F7BA3E)
-![Mongoose](https://img.shields.io/badge/Mongoose-D22128?style=flat&logo=mongoose&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-D22128?style=flat&logo=mongoose&logoColor=white)
+![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=flat&logo=nodemon&logoColor=black)
+
 
 <!-- ![Babel](https://img.shields.io/badge/Babel-yellow?style=flat&logo=babel&logoColor=black) -->
 <!-- ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=flat&logo=kubernetes&logoColor=white) -->
@@ -121,7 +119,7 @@ You can click the Preview link to take a look at your changes.
 #### Data Analytics 
 
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white)&nbsp;<!-- ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)&nbsp; -->
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white)&nbsp;
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)&nbsp;
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=white)
      
