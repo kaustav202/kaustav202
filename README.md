@@ -365,9 +365,9 @@ Featured Repositories.
 1. ⬆️ Pushed 1 commit(s) to [kaustav202/JS-DOM-Snippets](https://github.com/kaustav202/JS-DOM-Snippets)
 2. ⬆️ Pushed 1 commit(s) to [kaustav202/JS-DOM-Snippets](https://github.com/kaustav202/JS-DOM-Snippets)
 3. ⬆️ Pushed 1 commit(s) to [kaustav202/JS-DOM-Snippets](https://github.com/kaustav202/JS-DOM-Snippets)
-4. ⬆️ Pushed 1 commit(s) to [kaustav202/Problem-Solving-Techniques](https://github.com/kaustav202/Problem-Solving-Techniques)
-5. ⬆️ Pushed 1 commit(s) to [kaustav202/Problem-Solving-Techniques](https://github.com/kaustav202/Problem-Solving-Techniques)
-6. ⬆️ Pushed 1 commit(s) to [kaustav202/Problem-Solving-Techniques](https://github.com/kaustav202/Problem-Solving-Techniques)
+4. ⬆️ Pushed 1 commit(s) to [kaustav202/JS-DOM-Snippets](https://github.com/kaustav202/JS-DOM-Snippets)
+5. ⬆️ Pushed 1 commit(s) to [kaustav202/JS-DOM-Snippets](https://github.com/kaustav202/JS-DOM-Snippets)
+6. ⬆️ Pushed 1 commit(s) to [kaustav202/JS-DOM-Snippets](https://github.com/kaustav202/JS-DOM-Snippets)
 7. ⬆️ Pushed 1 commit(s) to [kaustav202/Problem-Solving-Techniques](https://github.com/kaustav202/Problem-Solving-Techniques)
 8. ⬆️ Pushed 1 commit(s) to [kaustav202/Problem-Solving-Techniques](https://github.com/kaustav202/Problem-Solving-Techniques)
 <!--RECENT_ACTIVITY:end-->
