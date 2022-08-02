@@ -220,20 +220,23 @@ You can click the Preview link to take a look at your changes.
 
 </br>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=RealTime-TwitterDataAnalysis&theme=swift"/> &nbsp; &nbsp;&nbsp;&nbsp; <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=News-Accumulator&theme=buefy"/> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=Cryptosense&theme=swift&bg_color=f7f7f7ce"/>  &nbsp;&nbsp; &nbsp; &nbsp; 
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=TV-Show-Management-App&theme=swift&bg_color=f7f7f7ce"/> 
 
 </br>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=JS-DOM-Snippets&theme=vue"/>  &nbsp;&nbsp; &nbsp; &nbsp; <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=IPL-Statistical-Analysis&theme=swift&title_color=000000"/>
+<img width="48%" src = "https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=Gamer-Hub&theme=swift&bg_color=f7f7f7ce"/> &nbsp; &nbsp;&nbsp;&nbsp;
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=RealTime-TwitterDataAnalysis&theme=buefy&title_color=2f1970cf&icon_color=553b9de1"/> 
 
 </br>
 
-<img width="48%" src = "https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=Gamer-Hub&theme=buefy"/> &nbsp;&nbsp; &nbsp;  &nbsp;<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=Tech-Vision&theme=vue"/> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=JS-DOM-Snippets&theme=vue"/>  &nbsp;&nbsp; &nbsp; &nbsp;
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=News-Accumulator&theme=buefy&title_color=2f1970cf&icon_color=553b9de1"/> 
 
 </br>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=Directory-Tree-Generator&theme=swift"/>&nbsp;&nbsp; &nbsp; &nbsp; 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=HomePal&theme=buefy"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=Tech-Vision&theme=vue"/>  &nbsp;&nbsp; &nbsp;  &nbsp;
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=HomePal&theme=swift&bg_color=f7f7f7ce"/>
 
  </details>
 
