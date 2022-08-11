@@ -361,14 +361,14 @@ Featured Repositories.
 <!-- 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [kaustav202/Final-Year-Project---Personalized-Route-Recommendation-System](https://github.com/kaustav202/Final-Year-Project---Personalized-Route-Recommendation-System)
-2. ⬆️ Pushed 1 commit(s) to [kaustav202/Final-Year-Project---Personalized-Route-Recommendation-System](https://github.com/kaustav202/Final-Year-Project---Personalized-Route-Recommendation-System)
-3. ⬆️ Pushed 1 commit(s) to [kaustav202/Cryptosense](https://github.com/kaustav202/Cryptosense)
-4. ⬆️ Pushed 1 commit(s) to [kaustav202/Cryptosense](https://github.com/kaustav202/Cryptosense)
-5. ⬆️ Pushed 1 commit(s) to [kaustav202/RealTime-TwitterDataAnalysis](https://github.com/kaustav202/RealTime-TwitterDataAnalysis)
-6. ⭐ Starred [litmuschaos/litmus](https://github.com/litmuschaos/litmus)
-7. ⬆️ Pushed 1 commit(s) to [kaustav202/JS-DOM-Snippets](https://github.com/kaustav202/JS-DOM-Snippets)
-8. ⬆️ Pushed 1 commit(s) to [kaustav202/JS-DOM-Snippets](https://github.com/kaustav202/JS-DOM-Snippets)
+1. ❗️ Opened issue [#335](https://github.com/open-source-ideas/ideas/issues/335) in [open-source-ideas/ideas](https://github.com/open-source-ideas/ideas)
+2. ⭐ Starred [umijs/umi](https://github.com/umijs/umi)
+3. ⬆️ Pushed 1 commit(s) to [kaustav202/Final-Year-Project---Personalized-Route-Recommendation-System](https://github.com/kaustav202/Final-Year-Project---Personalized-Route-Recommendation-System)
+4. ⬆️ Pushed 1 commit(s) to [kaustav202/Final-Year-Project---Personalized-Route-Recommendation-System](https://github.com/kaustav202/Final-Year-Project---Personalized-Route-Recommendation-System)
+5. ⬆️ Pushed 1 commit(s) to [kaustav202/Cryptosense](https://github.com/kaustav202/Cryptosense)
+6. ⬆️ Pushed 1 commit(s) to [kaustav202/Cryptosense](https://github.com/kaustav202/Cryptosense)
+7. ⬆️ Pushed 1 commit(s) to [kaustav202/RealTime-TwitterDataAnalysis](https://github.com/kaustav202/RealTime-TwitterDataAnalysis)
+8. ⭐ Starred [litmuschaos/litmus](https://github.com/litmuschaos/litmus)
 <!--RECENT_ACTIVITY:end-->
 
 </br>
