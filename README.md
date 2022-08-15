@@ -361,7 +361,7 @@ Featured Repositories.
 <!-- 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [kaustav202/Useful-Reads](https://github.com/kaustav202/Useful-Reads)
+1. ⭐ Starred [susanli2016/Machine-Learning-with-Python](https://github.com/susanli2016/Machine-Learning-with-Python)
 2. ⬆️ Pushed 1 commit(s) to [kaustav202/Useful-Reads](https://github.com/kaustav202/Useful-Reads)
 3. ⬆️ Pushed 1 commit(s) to [kaustav202/Useful-Reads](https://github.com/kaustav202/Useful-Reads)
 4. ⬆️ Pushed 1 commit(s) to [kaustav202/Useful-Reads](https://github.com/kaustav202/Useful-Reads)
