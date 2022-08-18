@@ -384,11 +384,11 @@ Featured Repositories.
 
    
 <!-- BLOG-POST-LIST:START -->
-- [Security Vulnerabilities in Digital Wallets based on Ethereum Ecosystem and Other Blockchain…](https://medium.com/@kaustav_g/security-vulnerabilities-in-digital-wallets-based-on-ethereum-ecosystem-and-other-blockchain-e0a4522344a9?source=rss-d1e37ddd01e4------2)
 - [An outline to Virtualization in IT systems and Software Engineering — why it’s more significant…](https://medium.com/@kaustav_g/an-outline-to-virtualization-in-it-systems-and-software-engineering-why-its-more-significant-3c59007eb869?source=rss-d1e37ddd01e4------2)
 - [Python tricks and techniques to help you get the most out of the language Part 1](https://medium.com/@kaustav_g/python-tricks-and-techniques-to-help-you-get-the-most-out-of-the-language-1-85741e608054?source=rss-d1e37ddd01e4------2)
 - [Take your GitHub profile from zero to hero with these 10 hacks](https://medium.com/@kaustav_g/take-your-github-profile-from-zero-to-hero-with-these-10-hacks-b6b5ffe3d065?source=rss-d1e37ddd01e4------2)
 - [How Open Source can be only thing you need to kickstart your journey as a software developer Part2](https://medium.com/@kaustav_g/how-open-source-can-be-only-thing-you-need-to-kickstart-your-journey-as-a-software-developer-part2-656cab3f4a82?source=rss-d1e37ddd01e4------2)
+- [How Open Source can be only thing you need to kickstart your journey as a  software developer Part1](https://medium.com/@kaustav_g/how-open-source-can-be-only-thing-you-need-to-kickstart-your-journey-as-a-software-developer-part1-5529c29e3a8b?source=rss-d1e37ddd01e4------2)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
