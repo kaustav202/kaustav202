@@ -84,7 +84,7 @@ You can click the Preview link to take a look at your changes.
 <!--      
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)&nbsp; -->
-<!-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)&nbsp; -->
+
 
 
 #### Database
