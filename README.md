@@ -364,14 +364,14 @@ Featured Repositories.
 <!-- 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [kaustav202/Problem-Solving-Techniques](https://github.com/kaustav202/Problem-Solving-Techniques)
-2. ⬆️ Pushed 1 commit(s) to [kaustav202/Problem-Solving-Techniques](https://github.com/kaustav202/Problem-Solving-Techniques)
-3. ⬆️ Pushed 1 commit(s) to [kaustav202/kaustav202](https://github.com/kaustav202/kaustav202)
-4. ⬆️ Pushed 1 commit(s) to [kaustav202/kaustav202](https://github.com/kaustav202/kaustav202)
-5. ⬆️ Pushed 1 commit(s) to [kaustav202/Tools](https://github.com/kaustav202/Tools)
-6. ⬆️ Pushed 1 commit(s) to [kaustav202/Tools](https://github.com/kaustav202/Tools)
-7. ⬆️ Pushed 1 commit(s) to [kaustav202/Tools](https://github.com/kaustav202/Tools)
-8. ⬆️ Pushed 1 commit(s) to [kaustav202/Tools](https://github.com/kaustav202/Tools)
+1. ⭐ Starred [initialcommit-com/git-story](https://github.com/initialcommit-com/git-story)
+2. ⭐ Starred [mlange-42/git-graph](https://github.com/mlange-42/git-graph)
+3. ⭐ Starred [facebookincubator/later](https://github.com/facebookincubator/later)
+4. ⭐ Starred [facebookincubator/rtmp-go-away](https://github.com/facebookincubator/rtmp-go-away)
+5. ⭐ Starred [facebookincubator/SocketRocket](https://github.com/facebookincubator/SocketRocket)
+6. ⭐ Starred [appwrite/appwrite](https://github.com/appwrite/appwrite)
+7. ⭐ Starred [litmuschaos/litmus](https://github.com/litmuschaos/litmus)
+8. ⭐ Starred [cncf/curriculum](https://github.com/cncf/curriculum)
 <!--RECENT_ACTIVITY:end-->
 
 </br>
