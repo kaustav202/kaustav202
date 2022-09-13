@@ -364,14 +364,14 @@ Featured Repositories.
 <!-- 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [initialcommit-com/git-story](https://github.com/initialcommit-com/git-story)
-2. ⭐ Starred [mlange-42/git-graph](https://github.com/mlange-42/git-graph)
-3. ⭐ Starred [facebookincubator/later](https://github.com/facebookincubator/later)
-4. ⭐ Starred [facebookincubator/rtmp-go-away](https://github.com/facebookincubator/rtmp-go-away)
-5. ⭐ Starred [facebookincubator/SocketRocket](https://github.com/facebookincubator/SocketRocket)
-6. ⭐ Starred [appwrite/appwrite](https://github.com/appwrite/appwrite)
-7. ⭐ Starred [litmuschaos/litmus](https://github.com/litmuschaos/litmus)
-8. ⭐ Starred [cncf/curriculum](https://github.com/cncf/curriculum)
+1. ❗️ Opened issue [#224](https://github.com/tapaswenipathak/Open-Source-Programs/issues/224) in [tapaswenipathak/Open-Source-Programs](https://github.com/tapaswenipathak/Open-Source-Programs)
+2. ⭐ Starred [initialcommit-com/git-story](https://github.com/initialcommit-com/git-story)
+3. ⭐ Starred [mlange-42/git-graph](https://github.com/mlange-42/git-graph)
+4. ⭐ Starred [facebookincubator/later](https://github.com/facebookincubator/later)
+5. ⭐ Starred [facebookincubator/rtmp-go-away](https://github.com/facebookincubator/rtmp-go-away)
+6. ⭐ Starred [facebookincubator/SocketRocket](https://github.com/facebookincubator/SocketRocket)
+7. ⭐ Starred [appwrite/appwrite](https://github.com/appwrite/appwrite)
+8. ⭐ Starred [litmuschaos/litmus](https://github.com/litmuschaos/litmus)
 <!--RECENT_ACTIVITY:end-->
 
 </br>
