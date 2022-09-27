@@ -364,14 +364,14 @@ Featured Repositories.
 <!-- 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [AccessibleForAll/AccessibleWebDev](https://github.com/AccessibleForAll/AccessibleWebDev)
-2. ⬆️ Pushed 1 commit(s) to [kaustav202/Internship-Projects](https://github.com/kaustav202/Internship-Projects)
-3. 📔 Created new repository [kaustav202/Real-Time-Chat-App](https://github.com/kaustav202/Real-Time-Chat-App)
-4. ⭐ Starred [vasanthk/how-web-works](https://github.com/vasanthk/how-web-works)
-5. ⭐ Starred [gothinkster/realworld](https://github.com/gothinkster/realworld)
-6. ❗️ Opened issue [#224](https://github.com/tapaswenipathak/Open-Source-Programs/issues/224) in [tapaswenipathak/Open-Source-Programs](https://github.com/tapaswenipathak/Open-Source-Programs)
-7. ⭐ Starred [initialcommit-com/git-story](https://github.com/initialcommit-com/git-story)
-8. ⭐ Starred [mlange-42/git-graph](https://github.com/mlange-42/git-graph)
+1. ⭐ Starred [crweiner/hacktoberfest-swag-list](https://github.com/crweiner/hacktoberfest-swag-list)
+2. ⭐ Starred [Heptagram-Project/discord-bot](https://github.com/Heptagram-Project/discord-bot)
+3. ⭐ Starred [ArjunSharda/Countey](https://github.com/ArjunSharda/Countey)
+4. ⭐ Starred [Gismo1337/hacktoberfest-project-list](https://github.com/Gismo1337/hacktoberfest-project-list)
+5. ⭐ Starred [appwrite/playground-for-python](https://github.com/appwrite/playground-for-python)
+6. ⭐ Starred [appwrite/playground-for-web](https://github.com/appwrite/playground-for-web)
+7. ⭐ Starred [appwrite/hacktoberfest](https://github.com/appwrite/hacktoberfest)
+8. ⭐ Starred [AccessibleForAll/AccessibleWebDev](https://github.com/AccessibleForAll/AccessibleWebDev)
 <!--RECENT_ACTIVITY:end-->
 
 </br>
