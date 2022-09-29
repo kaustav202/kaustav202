@@ -364,14 +364,14 @@ Featured Repositories.
 <!-- 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [crweiner/hacktoberfest-swag-list](https://github.com/crweiner/hacktoberfest-swag-list)
-2. ⭐ Starred [Heptagram-Project/discord-bot](https://github.com/Heptagram-Project/discord-bot)
-3. ⭐ Starred [ArjunSharda/Countey](https://github.com/ArjunSharda/Countey)
-4. ⭐ Starred [Gismo1337/hacktoberfest-project-list](https://github.com/Gismo1337/hacktoberfest-project-list)
-5. ⭐ Starred [appwrite/playground-for-python](https://github.com/appwrite/playground-for-python)
-6. ⭐ Starred [appwrite/playground-for-web](https://github.com/appwrite/playground-for-web)
-7. ⭐ Starred [appwrite/hacktoberfest](https://github.com/appwrite/hacktoberfest)
-8. ⭐ Starred [AccessibleForAll/AccessibleWebDev](https://github.com/AccessibleForAll/AccessibleWebDev)
+1. ⬆️ Pushed 1 commit(s) to [kaustav202/RealTime-TwitterDataAnalysis](https://github.com/kaustav202/RealTime-TwitterDataAnalysis)
+2. ⬆️ Pushed 1 commit(s) to [kaustav202/organica](https://github.com/kaustav202/organica)
+3. ⬆️ Pushed 1 commit(s) to [kaustav202/organica](https://github.com/kaustav202/organica)
+4. ⭐ Starred [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors)
+5. ⭐ Starred [BobAnkh/add-contributors](https://github.com/BobAnkh/add-contributors)
+6. ⭐ Starred [kaustav202/RealTime-TwitterDataAnalysis](https://github.com/kaustav202/RealTime-TwitterDataAnalysis)
+7. ⬆️ Pushed 1 commit(s) to [kaustav202/RealTime-TwitterDataAnalysis](https://github.com/kaustav202/RealTime-TwitterDataAnalysis)
+8. ⬆️ Pushed 1 commit(s) to [kaustav202/RealTime-TwitterDataAnalysis](https://github.com/kaustav202/RealTime-TwitterDataAnalysis)
 <!--RECENT_ACTIVITY:end-->
 
 </br>
