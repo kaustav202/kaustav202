@@ -364,14 +364,14 @@ Featured Repositories.
 <!-- 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [kaustav202/RealTime-TwitterDataAnalysis](https://github.com/kaustav202/RealTime-TwitterDataAnalysis)
-2. ⬆️ Pushed 1 commit(s) to [kaustav202/organica](https://github.com/kaustav202/organica)
-3. ⬆️ Pushed 1 commit(s) to [kaustav202/organica](https://github.com/kaustav202/organica)
-4. ⭐ Starred [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors)
-5. ⭐ Starred [BobAnkh/add-contributors](https://github.com/BobAnkh/add-contributors)
-6. ⭐ Starred [kaustav202/RealTime-TwitterDataAnalysis](https://github.com/kaustav202/RealTime-TwitterDataAnalysis)
-7. ⬆️ Pushed 1 commit(s) to [kaustav202/RealTime-TwitterDataAnalysis](https://github.com/kaustav202/RealTime-TwitterDataAnalysis)
-8. ⬆️ Pushed 1 commit(s) to [kaustav202/RealTime-TwitterDataAnalysis](https://github.com/kaustav202/RealTime-TwitterDataAnalysis)
+1. ❌ Closed PR [#6](https://github.com/kaustav202/organica/pull/6) in [kaustav202/organica](https://github.com/kaustav202/organica)
+2. 💪 Opened PR [#6](https://github.com/kaustav202/organica/pull/6) in [kaustav202/organica](https://github.com/kaustav202/organica)
+3. ⬆️ Pushed 2 commit(s) to [kaustav202/organica](https://github.com/kaustav202/organica)
+4. 🎉 Merged PR [#5](https://github.com/kaustav202/organica/pull/5) in [kaustav202/organica](https://github.com/kaustav202/organica)
+5. 💪 Opened PR [#5](https://github.com/kaustav202/organica/pull/5) in [kaustav202/organica](https://github.com/kaustav202/organica)
+6. ❗️ Opened issue [#4](https://github.com/kaustav202/organica/issues/4) in [kaustav202/organica](https://github.com/kaustav202/organica)
+7. ❗️ Opened issue [#3](https://github.com/kaustav202/organica/issues/3) in [kaustav202/organica](https://github.com/kaustav202/organica)
+8. ❗️ Opened issue [#2](https://github.com/kaustav202/organica/issues/2) in [kaustav202/organica](https://github.com/kaustav202/organica)
 <!--RECENT_ACTIVITY:end-->
 
 </br>
