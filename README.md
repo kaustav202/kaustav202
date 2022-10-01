@@ -364,14 +364,14 @@ Featured Repositories.
 <!-- 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [kaustav202/RealTime-TwitterDataAnalysis](https://github.com/kaustav202/RealTime-TwitterDataAnalysis)
-2. ⬆️ Pushed 2 commit(s) to [kaustav202/RealTime-TwitterDataAnalysis](https://github.com/kaustav202/RealTime-TwitterDataAnalysis)
-3. 🎉 Merged PR [#2](https://github.com/kaustav202/RealTime-TwitterDataAnalysis/pull/2) in [kaustav202/RealTime-TwitterDataAnalysis](https://github.com/kaustav202/RealTime-TwitterDataAnalysis)
-4. 💪 Opened PR [#2](https://github.com/kaustav202/RealTime-TwitterDataAnalysis/pull/2) in [kaustav202/RealTime-TwitterDataAnalysis](https://github.com/kaustav202/RealTime-TwitterDataAnalysis)
-5. ⬆️ Pushed 2 commit(s) to [kaustav202/organica](https://github.com/kaustav202/organica)
-6. 🎉 Merged PR [#7](https://github.com/kaustav202/organica/pull/7) in [kaustav202/organica](https://github.com/kaustav202/organica)
-7. 💪 Opened PR [#7](https://github.com/kaustav202/organica/pull/7) in [kaustav202/organica](https://github.com/kaustav202/organica)
-8. ❌ Closed PR [#6](https://github.com/kaustav202/organica/pull/6) in [kaustav202/organica](https://github.com/kaustav202/organica)
+1. ⬆️ Pushed 1 commit(s) to [kaustav202/organica](https://github.com/kaustav202/organica)
+2. ⬆️ Pushed 1 commit(s) to [kaustav202/RealTime-TwitterDataAnalysis](https://github.com/kaustav202/RealTime-TwitterDataAnalysis)
+3. ❗️ Opened issue [#5](https://github.com/kaustav202/RealTime-TwitterDataAnalysis/issues/5) in [kaustav202/RealTime-TwitterDataAnalysis](https://github.com/kaustav202/RealTime-TwitterDataAnalysis)
+4. ❗️ Opened issue [#9](https://github.com/kaustav202/organica/issues/9) in [kaustav202/organica](https://github.com/kaustav202/organica)
+5. ⬆️ Pushed 1 commit(s) to [kaustav202/organica](https://github.com/kaustav202/organica)
+6. ❗️ Opened issue [#4](https://github.com/kaustav202/RealTime-TwitterDataAnalysis/issues/4) in [kaustav202/RealTime-TwitterDataAnalysis](https://github.com/kaustav202/RealTime-TwitterDataAnalysis)
+7. ⬆️ Pushed 1 commit(s) to [kaustav202/organica](https://github.com/kaustav202/organica)
+8. ⬆️ Pushed 1 commit(s) to [kaustav202/organica](https://github.com/kaustav202/organica)
 <!--RECENT_ACTIVITY:end-->
 
 </br>
