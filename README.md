@@ -364,14 +364,14 @@ Featured Repositories.
 <!-- 
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#8](https://github.com/kaustav202/RealTime-TwitterDataAnalysis/pull/8#pullrequestreview-1127582735) in [kaustav202/RealTime-TwitterDataAnalysis](https://github.com/kaustav202/RealTime-TwitterDataAnalysis)
-2. ⬆️ Pushed 1 commit(s) to [kaustav202/organica](https://github.com/kaustav202/organica)
-3. ⬆️ Pushed 1 commit(s) to [kaustav202/RealTime-TwitterDataAnalysis](https://github.com/kaustav202/RealTime-TwitterDataAnalysis)
-4. ❗️ Opened issue [#5](https://github.com/kaustav202/RealTime-TwitterDataAnalysis/issues/5) in [kaustav202/RealTime-TwitterDataAnalysis](https://github.com/kaustav202/RealTime-TwitterDataAnalysis)
-5. ❗️ Opened issue [#9](https://github.com/kaustav202/organica/issues/9) in [kaustav202/organica](https://github.com/kaustav202/organica)
-6. ⬆️ Pushed 1 commit(s) to [kaustav202/organica](https://github.com/kaustav202/organica)
-7. ❗️ Opened issue [#4](https://github.com/kaustav202/RealTime-TwitterDataAnalysis/issues/4) in [kaustav202/RealTime-TwitterDataAnalysis](https://github.com/kaustav202/RealTime-TwitterDataAnalysis)
-8. ⬆️ Pushed 1 commit(s) to [kaustav202/organica](https://github.com/kaustav202/organica)
+1. ⬆️ Pushed 1 commit(s) to [kaustav202/RealTime-TwitterDataAnalysis](https://github.com/kaustav202/RealTime-TwitterDataAnalysis)
+2. ❌ Closed PR [#7](https://github.com/kaustav202/RealTime-TwitterDataAnalysis/pull/7) in [kaustav202/RealTime-TwitterDataAnalysis](https://github.com/kaustav202/RealTime-TwitterDataAnalysis)
+3. 🔴 Requested changes in [#11](https://github.com/kaustav202/RealTime-TwitterDataAnalysis/pull/11#pullrequestreview-1127602731) in [kaustav202/RealTime-TwitterDataAnalysis](https://github.com/kaustav202/RealTime-TwitterDataAnalysis)
+4. ⬆️ Pushed 1 commit(s) to [kaustav202/RealTime-TwitterDataAnalysis](https://github.com/kaustav202/RealTime-TwitterDataAnalysis)
+5. ✔️ Closed issue [#10](https://github.com/kaustav202/RealTime-TwitterDataAnalysis/issues/10) in [kaustav202/RealTime-TwitterDataAnalysis](https://github.com/kaustav202/RealTime-TwitterDataAnalysis)
+6. ⬆️ Pushed 1 commit(s) to [kaustav202/RealTime-TwitterDataAnalysis](https://github.com/kaustav202/RealTime-TwitterDataAnalysis)
+7. ❗️ Opened issue [#10](https://github.com/kaustav202/RealTime-TwitterDataAnalysis/issues/10) in [kaustav202/RealTime-TwitterDataAnalysis](https://github.com/kaustav202/RealTime-TwitterDataAnalysis)
+8. 🔴 Requested changes in [#6](https://github.com/kaustav202/RealTime-TwitterDataAnalysis/pull/6#pullrequestreview-1127586148) in [kaustav202/RealTime-TwitterDataAnalysis](https://github.com/kaustav202/RealTime-TwitterDataAnalysis)
 <!--RECENT_ACTIVITY:end-->
 
 </br>
