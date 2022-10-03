@@ -8,6 +8,22 @@
  
  <p>- <i>A comp-sci undergraduate student and a software developer with good problem-solving skills. Passionate about programming and technology. Equipped with a diverse and promising skill-set, placing a special emphasis on system level thinking and good quality code. Also regularly write technical blogs and articles for various popular tech sites.</i></p>
 
+![scroll_holo_back_adjust1](https://user-images.githubusercontent.com/89788120/171252746-c0b5acb7-cca0-4f81-a70c-afb9789ceae0.gif)
+
+
+&nbsp;  <a href="https://github.com/kaustav202#%EF%B8%8F-skills"> <img src="https://dabuttonfactory.com/button.png?t=Skills&f=Pacifico&ts=18&tc=fff&tshs=1&tshc=170741&hp=30&vp=9&c=round&bgt=pyramid&bgc=fabd9b&ebgc=ff9950&be=1" /></a> &nbsp;&nbsp; <a href="https://github.com/kaustav202#---featured-repositories--"> <img src="https://dabuttonfactory.com/button.png?t=Repositories&f=Pacifico&ts=18&tc=fff&tshs=1&tshc=170741&hp=30&vp=9&c=round&bgt=pyramid&bgc=fabd9b&ebgc=ff9950&be=1" /> </a> &nbsp;&nbsp;<a href="https://github.com/kaustav202#%EF%B8%8F----contribution-overview-and-activity"> <img src="https://dabuttonfactory.com/button.png?t=Activity&f=Pacifico&ts=18&tc=fff&tshs=1&tshc=170741&hp=30&vp=9&c=round&bgt=pyramid&bgc=fabd9b&ebgc=ff9950&be=1" /> </a>&nbsp;&nbsp; <a href="https://github.com/kaustav202#-------recent-articles-and-blog-posts--" > <img src="https://dabuttonfactory.com/button.png?t=Blogs&f=Pacifico&ts=18&tc=fff&tshs=1&tshc=170741&hp=32&vp=9&c=round&bgt=pyramid&bgc=fabd9b&ebgc=ff9950&be=1" /> </a> &nbsp;&nbsp; <a href="https://github.com/kaustav202#----connnect-with-me"> <img src="https://dabuttonfactory.com/button.png?t=Contact&f=Pacifico&ts=18&tc=fff&tshs=1&tshc=170741&hp=32&vp=9&c=round&bgt=pyramid&bgc=fabd9b&ebgc=ff9950&be=1" /> </a>
+
+<hr>
+
+<img src="https://user-images.githubusercontent.com/89788120/171056531-5afa6fb0-3b60-4bfd-9250-f7724c608aac.gif" width="77%" />
+ 
+<!---
+
+kaustav202/kaustav202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+
+--->
+
 <details>
  
  <summary> <h2> &nbsp;&nbsp;&nbsp;⚡🙋‍♂️ About Me </h2> </summary>
@@ -30,24 +46,6 @@
 </br>
  
 </details>
-
-![scroll_holo_back_adjust1](https://user-images.githubusercontent.com/89788120/171252746-c0b5acb7-cca0-4f81-a70c-afb9789ceae0.gif)
-
-
-&nbsp;  <a href="https://github.com/kaustav202#%EF%B8%8F-skills"> <img src="https://dabuttonfactory.com/button.png?t=Skills&f=Pacifico&ts=18&tc=fff&tshs=1&tshc=170741&hp=30&vp=9&c=round&bgt=pyramid&bgc=fabd9b&ebgc=ff9950&be=1" /></a> &nbsp;&nbsp; <a href="https://github.com/kaustav202#---featured-repositories--"> <img src="https://dabuttonfactory.com/button.png?t=Repositories&f=Pacifico&ts=18&tc=fff&tshs=1&tshc=170741&hp=30&vp=9&c=round&bgt=pyramid&bgc=fabd9b&ebgc=ff9950&be=1" /> </a> &nbsp;&nbsp;<a href="https://github.com/kaustav202#%EF%B8%8F----contribution-overview-and-activity"> <img src="https://dabuttonfactory.com/button.png?t=Activity&f=Pacifico&ts=18&tc=fff&tshs=1&tshc=170741&hp=30&vp=9&c=round&bgt=pyramid&bgc=fabd9b&ebgc=ff9950&be=1" /> </a>&nbsp;&nbsp; <a href="https://github.com/kaustav202#-------recent-articles-and-blog-posts--" > <img src="https://dabuttonfactory.com/button.png?t=Blogs&f=Pacifico&ts=18&tc=fff&tshs=1&tshc=170741&hp=32&vp=9&c=round&bgt=pyramid&bgc=fabd9b&ebgc=ff9950&be=1" /> </a> &nbsp;&nbsp; <a href="https://github.com/kaustav202#----connnect-with-me"> <img src="https://dabuttonfactory.com/button.png?t=Contact&f=Pacifico&ts=18&tc=fff&tshs=1&tshc=170741&hp=32&vp=9&c=round&bgt=pyramid&bgc=fabd9b&ebgc=ff9950&be=1" /> </a>
-
-<hr>
-
-<img src="https://user-images.githubusercontent.com/89788120/171056531-5afa6fb0-3b60-4bfd-9250-f7724c608aac.gif" width="77%" />
- 
-<!---
-
-kaustav202/kaustav202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
---->
-
-
 
 </br>
 
