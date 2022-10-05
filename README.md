@@ -362,14 +362,14 @@ Featured Repositories.
 <!-- 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [flyteorg/flyte](https://github.com/flyteorg/flyte)
-2. ⬆️ Pushed 1 commit(s) to [kaustav202/RealTime-TwitterDataAnalysis](https://github.com/kaustav202/RealTime-TwitterDataAnalysis)
-3. ⬆️ Pushed 1 commit(s) to [kaustav202/RealTime-TwitterDataAnalysis](https://github.com/kaustav202/RealTime-TwitterDataAnalysis)
-4. ⬆️ Pushed 1 commit(s) to [kaustav202/RealTime-TwitterDataAnalysis](https://github.com/kaustav202/RealTime-TwitterDataAnalysis)
-5. ✔️ Closed issue [#3](https://github.com/kaustav202/RealTime-TwitterDataAnalysis/issues/3) in [kaustav202/RealTime-TwitterDataAnalysis](https://github.com/kaustav202/RealTime-TwitterDataAnalysis)
-6. ⬆️ Pushed 9 commit(s) to [kaustav202/RealTime-TwitterDataAnalysis](https://github.com/kaustav202/RealTime-TwitterDataAnalysis)
-7. 🎉 Merged PR [#6](https://github.com/kaustav202/RealTime-TwitterDataAnalysis/pull/6) in [kaustav202/RealTime-TwitterDataAnalysis](https://github.com/kaustav202/RealTime-TwitterDataAnalysis)
-8. 👍 Approved [#6](https://github.com/kaustav202/RealTime-TwitterDataAnalysis/pull/6#pullrequestreview-1128713631) in [kaustav202/RealTime-TwitterDataAnalysis](https://github.com/kaustav202/RealTime-TwitterDataAnalysis)
+1. 🔱 Forked [kaustav202/JSONformatter](https://github.com/kaustav202/JSONformatter) from [nirajacharyaa/JSONformatter](https://github.com/nirajacharyaa/JSONformatter)
+2. 🔴 Requested changes in [#22](https://github.com/kaustav202/RealTime-TwitterDataAnalysis/pull/22#pullrequestreview-1131332755) in [kaustav202/RealTime-TwitterDataAnalysis](https://github.com/kaustav202/RealTime-TwitterDataAnalysis)
+3. ⭐ Starred [Zack-Dx/Twitter-Landing-Page](https://github.com/Zack-Dx/Twitter-Landing-Page)
+4. ⭐ Starred [apache/airflow](https://github.com/apache/airflow)
+5. ⭐ Starred [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy)
+6. ❗️ Opened issue [#4](https://github.com/segfault-00/Youtube-Clone/issues/4) in [segfault-00/Youtube-Clone](https://github.com/segfault-00/Youtube-Clone)
+7. ⭐ Starred [nwunderly/starlette-discord](https://github.com/nwunderly/starlette-discord)
+8. ⭐ Starred [flyteorg/flyte](https://github.com/flyteorg/flyte)
 <!--RECENT_ACTIVITY:end-->
 
 </br>
