@@ -362,14 +362,14 @@ Featured Repositories.
 <!-- 
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested changes in [#17](https://github.com/kaustav202/organica/pull/17#pullrequestreview-1133763481) in [kaustav202/organica](https://github.com/kaustav202/organica)
-2. ❌ Closed PR [#22](https://github.com/kaustav202/organica/pull/22) in [kaustav202/organica](https://github.com/kaustav202/organica)
-3. 🔴 Requested changes in [#15](https://github.com/kaustav202/organica/pull/15#pullrequestreview-1133751426) in [kaustav202/organica](https://github.com/kaustav202/organica)
-4. 🎉 Merged PR [#23](https://github.com/kaustav202/organica/pull/23) in [kaustav202/organica](https://github.com/kaustav202/organica)
-5. ✔️ Closed issue [#10](https://github.com/kaustav202/organica/issues/10) in [kaustav202/organica](https://github.com/kaustav202/organica)
-6. ⬆️ Pushed 3 commit(s) to [kaustav202/organica](https://github.com/kaustav202/organica)
-7. 👍 Approved [#23](https://github.com/kaustav202/organica/pull/23#pullrequestreview-1133736920) in [kaustav202/organica](https://github.com/kaustav202/organica)
-8. ⬆️ Pushed 1 commit(s) to [lalit-03/organica](https://github.com/lalit-03/organica)
+1. 🎉 Merged PR [#22](https://github.com/kaustav202/RealTime-TwitterDataAnalysis/pull/22) in [kaustav202/RealTime-TwitterDataAnalysis](https://github.com/kaustav202/RealTime-TwitterDataAnalysis)
+2. ✔️ Closed issue [#15](https://github.com/kaustav202/RealTime-TwitterDataAnalysis/issues/15) in [kaustav202/RealTime-TwitterDataAnalysis](https://github.com/kaustav202/RealTime-TwitterDataAnalysis)
+3. ⬆️ Pushed 10 commit(s) to [kaustav202/RealTime-TwitterDataAnalysis](https://github.com/kaustav202/RealTime-TwitterDataAnalysis)
+4. 👍 Approved [#22](https://github.com/kaustav202/RealTime-TwitterDataAnalysis/pull/22#pullrequestreview-1134825723) in [kaustav202/RealTime-TwitterDataAnalysis](https://github.com/kaustav202/RealTime-TwitterDataAnalysis)
+5. 🔴 Requested changes in [#22](https://github.com/kaustav202/RealTime-TwitterDataAnalysis/pull/22#pullrequestreview-1134193001) in [kaustav202/RealTime-TwitterDataAnalysis](https://github.com/kaustav202/RealTime-TwitterDataAnalysis)
+6. ❗️ Opened issue [#1518](https://github.com/novuhq/novu/issues/1518) in [novuhq/novu](https://github.com/novuhq/novu)
+7. ❌ Closed PR [#11](https://github.com/kaustav202/RealTime-TwitterDataAnalysis/pull/11) in [kaustav202/RealTime-TwitterDataAnalysis](https://github.com/kaustav202/RealTime-TwitterDataAnalysis)
+8. 🔴 Requested changes in [#17](https://github.com/kaustav202/organica/pull/17#pullrequestreview-1133763481) in [kaustav202/organica](https://github.com/kaustav202/organica)
 <!--RECENT_ACTIVITY:end-->
 
 </br>
