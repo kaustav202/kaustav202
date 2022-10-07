@@ -362,14 +362,14 @@ Featured Repositories.
 <!-- 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [novuhq/novu](https://github.com/novuhq/novu)
-2. ❌ Closed PR [#1800](https://github.com/eclipse/jkube/pull/1800) in [eclipse/jkube](https://github.com/eclipse/jkube)
-3. ⭐ Starred [ArjunSharda/Searchor](https://github.com/ArjunSharda/Searchor)
-4. ⬆️ Pushed 6 commit(s) to [kaustav202/Merch-Designer](https://github.com/kaustav202/Merch-Designer)
-5. ✔️ Closed issue [#5](https://github.com/Abdulmumin1/Merch-Designer/issues/5) in [Abdulmumin1/Merch-Designer](https://github.com/Abdulmumin1/Merch-Designer)
-6. ⬆️ Pushed 1 commit(s) to [kaustav202/virendracarpenter](https://github.com/kaustav202/virendracarpenter)
-7. ⬆️ Pushed 3 commit(s) to [kaustav202/virendracarpenter](https://github.com/kaustav202/virendracarpenter)
-8. 💪 Opened PR [#8](https://github.com/Young-N-Ambitious/.github/pull/8) in [Young-N-Ambitious/.github](https://github.com/Young-N-Ambitious/.github)
+1. 🔴 Requested changes in [#17](https://github.com/kaustav202/organica/pull/17#pullrequestreview-1133763481) in [kaustav202/organica](https://github.com/kaustav202/organica)
+2. ❌ Closed PR [#22](https://github.com/kaustav202/organica/pull/22) in [kaustav202/organica](https://github.com/kaustav202/organica)
+3. 🔴 Requested changes in [#15](https://github.com/kaustav202/organica/pull/15#pullrequestreview-1133751426) in [kaustav202/organica](https://github.com/kaustav202/organica)
+4. 🎉 Merged PR [#23](https://github.com/kaustav202/organica/pull/23) in [kaustav202/organica](https://github.com/kaustav202/organica)
+5. ✔️ Closed issue [#10](https://github.com/kaustav202/organica/issues/10) in [kaustav202/organica](https://github.com/kaustav202/organica)
+6. ⬆️ Pushed 3 commit(s) to [kaustav202/organica](https://github.com/kaustav202/organica)
+7. 👍 Approved [#23](https://github.com/kaustav202/organica/pull/23#pullrequestreview-1133736920) in [kaustav202/organica](https://github.com/kaustav202/organica)
+8. ⬆️ Pushed 1 commit(s) to [lalit-03/organica](https://github.com/lalit-03/organica)
 <!--RECENT_ACTIVITY:end-->
 
 </br>
