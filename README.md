@@ -362,14 +362,14 @@ Featured Repositories.
 <!-- 
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#578](https://github.com/quelea-projection/Quelea/pull/578) in [quelea-projection/Quelea](https://github.com/quelea-projection/Quelea)
-2. ⬆️ Pushed 1 commit(s) to [kaustav202/Quelea](https://github.com/kaustav202/Quelea)
-3. ⬆️ Pushed 1 commit(s) to [kaustav202/Quelea](https://github.com/kaustav202/Quelea)
-4. 💪 Opened PR [#1554](https://github.com/novuhq/novu/pull/1554) in [novuhq/novu](https://github.com/novuhq/novu)
-5. ⬆️ Pushed 1 commit(s) to [kaustav202/novu](https://github.com/kaustav202/novu)
-6. 🔱 Forked [kaustav202/novu](https://github.com/kaustav202/novu) from [novuhq/novu](https://github.com/novuhq/novu)
-7. ❗️ Opened issue [#1550](https://github.com/novuhq/novu/issues/1550) in [novuhq/novu](https://github.com/novuhq/novu)
-8. ✔️ Closed issue [#1518](https://github.com/novuhq/novu/issues/1518) in [novuhq/novu](https://github.com/novuhq/novu)
+1. 💪 Opened PR [#16](https://github.com/kanakmi/Detective-Discord/pull/16) in [kanakmi/Detective-Discord](https://github.com/kanakmi/Detective-Discord)
+2. ⬆️ Pushed 0 commit(s) to [kaustav202/Detective-Discord](https://github.com/kaustav202/Detective-Discord)
+3. ⬆️ Pushed 1 commit(s) to [kaustav202/Detective-Discord](https://github.com/kaustav202/Detective-Discord)
+4. 💪 Opened PR [#15](https://github.com/kanakmi/Detective-Discord/pull/15) in [kanakmi/Detective-Discord](https://github.com/kanakmi/Detective-Discord)
+5. ⬆️ Pushed 1 commit(s) to [kaustav202/Detective-Discord](https://github.com/kaustav202/Detective-Discord)
+6. ⬆️ Pushed 1 commit(s) to [kaustav202/Detective-Discord](https://github.com/kaustav202/Detective-Discord)
+7. 🔱 Forked [kaustav202/Detective-Discord](https://github.com/kaustav202/Detective-Discord) from [kanakmi/Detective-Discord](https://github.com/kanakmi/Detective-Discord)
+8. 💪 Opened PR [#578](https://github.com/quelea-projection/Quelea/pull/578) in [quelea-projection/Quelea](https://github.com/quelea-projection/Quelea)
 <!--RECENT_ACTIVITY:end-->
 
 </br>
