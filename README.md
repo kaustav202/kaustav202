@@ -362,14 +362,14 @@ Featured Repositories.
 <!-- 
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#16](https://github.com/kanakmi/Detective-Discord/pull/16) in [kanakmi/Detective-Discord](https://github.com/kanakmi/Detective-Discord)
-2. ⬆️ Pushed 0 commit(s) to [kaustav202/Detective-Discord](https://github.com/kaustav202/Detective-Discord)
-3. ⬆️ Pushed 1 commit(s) to [kaustav202/Detective-Discord](https://github.com/kaustav202/Detective-Discord)
-4. 💪 Opened PR [#15](https://github.com/kanakmi/Detective-Discord/pull/15) in [kanakmi/Detective-Discord](https://github.com/kanakmi/Detective-Discord)
-5. ⬆️ Pushed 1 commit(s) to [kaustav202/Detective-Discord](https://github.com/kaustav202/Detective-Discord)
-6. ⬆️ Pushed 1 commit(s) to [kaustav202/Detective-Discord](https://github.com/kaustav202/Detective-Discord)
-7. 🔱 Forked [kaustav202/Detective-Discord](https://github.com/kaustav202/Detective-Discord) from [kanakmi/Detective-Discord](https://github.com/kanakmi/Detective-Discord)
-8. 💪 Opened PR [#578](https://github.com/quelea-projection/Quelea/pull/578) in [quelea-projection/Quelea](https://github.com/quelea-projection/Quelea)
+1. ❗️ Opened issue [#1690](https://github.com/novuhq/novu/issues/1690) in [novuhq/novu](https://github.com/novuhq/novu)
+2. ⬆️ Pushed 1 commit(s) to [kaustav202/import](https://github.com/kaustav202/import)
+3. ❗️ Opened issue [#26](https://github.com/AnkitaMalik22/devmate/issues/26) in [AnkitaMalik22/devmate](https://github.com/AnkitaMalik22/devmate)
+4. ❗️ Opened issue [#25](https://github.com/AnkitaMalik22/devmate/issues/25) in [AnkitaMalik22/devmate](https://github.com/AnkitaMalik22/devmate)
+5. 💪 Opened PR [#54](https://github.com/Clueless-Community/web-ui-kit/pull/54) in [Clueless-Community/web-ui-kit](https://github.com/Clueless-Community/web-ui-kit)
+6. ⬆️ Pushed 1 commit(s) to [kaustav202/web-ui-kit](https://github.com/kaustav202/web-ui-kit)
+7. ⬆️ Pushed 13 commit(s) to [kaustav202/web-ui-kit](https://github.com/kaustav202/web-ui-kit)
+8. ⬆️ Pushed 14 commit(s) to [kaustav202/web-ui-kit](https://github.com/kaustav202/web-ui-kit)
 <!--RECENT_ACTIVITY:end-->
 
 </br>
