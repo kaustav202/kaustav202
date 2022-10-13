@@ -38,8 +38,8 @@ You can click the Preview link to take a look at your changes.
 - 🗃️ My Stacks 👉  **MERN** , **RDS** (Django), **FARM**  (Fastapi)
 - 💡 I’m curious about ...**Blockchain** and **Crypto Currency**.
 - 📖 I’m currently learning... advanced algorithms and CS core concepts.
-- 🤖 Future profile outlook.. **AI**/ **ML**/ **Data Science**.
-- ❄️ I’m looking to collaborate on... useful Open Source Projects.
+- 🤖 Future profile outlook.. **AI**/ **ML**/ **Cloud**.
+- ❄️ I’m looking to collaborate on... useful Open 22.01.30.0-30011403-3677 Projects.
 - 🤝 Get in touch to.. participate in hackathons or coding competetions (Team)
 - 📩 How to reach me ... **check out my socials** [below👇](https://github.com/kaustav202#----connnect-with-me)**!!**
 
