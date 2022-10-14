@@ -364,14 +364,14 @@ Featured Repositories.
 <!-- 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [kaustav202/kaustav202](https://github.com/kaustav202/kaustav202)
-2. ⬆️ Pushed 1 commit(s) to [kaustav202/kaustav202](https://github.com/kaustav202/kaustav202)
-3. ⬆️ Pushed 1 commit(s) to [kaustav202/kaustav202](https://github.com/kaustav202/kaustav202)
-4. ⬆️ Pushed 1 commit(s) to [kaustav202/kaustav202](https://github.com/kaustav202/kaustav202)
-5. ❗️ Opened issue [#301](https://github.com/localstack/docs/issues/301) in [localstack/docs](https://github.com/localstack/docs)
-6. ❗️ Opened issue [#76](https://github.com/Clueless-Community/web-ui-kit/issues/76) in [Clueless-Community/web-ui-kit](https://github.com/Clueless-Community/web-ui-kit)
-7. ❗️ Opened issue [#1690](https://github.com/novuhq/novu/issues/1690) in [novuhq/novu](https://github.com/novuhq/novu)
-8. ⬆️ Pushed 1 commit(s) to [kaustav202/import](https://github.com/kaustav202/import)
+1. 💪 Opened PR [#2766](https://github.com/pankod/refine/pull/2766) in [pankod/refine](https://github.com/pankod/refine)
+2. ⬆️ Pushed 1 commit(s) to [kaustav202/refine](https://github.com/kaustav202/refine)
+3. ⬆️ Pushed 1 commit(s) to [kaustav202/refine](https://github.com/kaustav202/refine)
+4. 🔱 Forked [kaustav202/refine](https://github.com/kaustav202/refine) from [pankod/refine](https://github.com/pankod/refine)
+5. ⬆️ Pushed 3 commit(s) to [kaustav202/novu](https://github.com/kaustav202/novu)
+6. 💪 Opened PR [#1719](https://github.com/novuhq/novu/pull/1719) in [novuhq/novu](https://github.com/novuhq/novu)
+7. ⬆️ Pushed 3 commit(s) to [kaustav202/novu](https://github.com/kaustav202/novu)
+8. ⬆️ Pushed 11 commit(s) to [kaustav202/novu](https://github.com/kaustav202/novu)
 <!--RECENT_ACTIVITY:end-->
 
 </br>
