@@ -364,14 +364,14 @@ Featured Repositories.
 <!-- 
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#217](https://github.com/Clueless-Community/web-ui-kit/pull/217) in [Clueless-Community/web-ui-kit](https://github.com/Clueless-Community/web-ui-kit)
-2. ⬆️ Pushed 1 commit(s) to [kaustav202/web-ui-kit](https://github.com/kaustav202/web-ui-kit)
-3. ⬆️ Pushed 197 commit(s) to [kaustav202/web-ui-kit](https://github.com/kaustav202/web-ui-kit)
-4. 💪 Opened PR [#1742](https://github.com/novuhq/novu/pull/1742) in [novuhq/novu](https://github.com/novuhq/novu)
-5. ⬆️ Pushed 1 commit(s) to [kaustav202/novu](https://github.com/kaustav202/novu)
-6. ⬆️ Pushed 71 commit(s) to [kaustav202/novu](https://github.com/kaustav202/novu)
-7. 💪 Opened PR [#2778](https://github.com/pankod/refine/pull/2778) in [pankod/refine](https://github.com/pankod/refine)
-8. ⬆️ Pushed 1 commit(s) to [kaustav202/refine](https://github.com/kaustav202/refine)
+1. ⭐ Starred [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react)
+2. ⭐ Starred [vasanthk/react-bits](https://github.com/vasanthk/react-bits)
+3. 💪 Opened PR [#4535](https://github.com/ToolJet/ToolJet/pull/4535) in [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
+4. ⬆️ Pushed 1 commit(s) to [kaustav202/ToolJet](https://github.com/kaustav202/ToolJet)
+5. 🔱 Forked [kaustav202/ToolJet](https://github.com/kaustav202/ToolJet) from [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
+6. ❗️ Opened issue [#4533](https://github.com/ToolJet/ToolJet/issues/4533) in [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
+7. 💪 Opened PR [#217](https://github.com/Clueless-Community/web-ui-kit/pull/217) in [Clueless-Community/web-ui-kit](https://github.com/Clueless-Community/web-ui-kit)
+8. ⬆️ Pushed 1 commit(s) to [kaustav202/web-ui-kit](https://github.com/kaustav202/web-ui-kit)
 <!--RECENT_ACTIVITY:end-->
 
 </br>
