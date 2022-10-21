@@ -50,7 +50,6 @@ You can click the Preview link to take a look at your changes.
 
 </br>
 
-
 <table width="100%" >
 
  <tr>
@@ -85,8 +84,6 @@ You can click the Preview link to take a look at your changes.
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)&nbsp; -->
 
-
-
 #### Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)&nbsp;
@@ -94,7 +91,6 @@ You can click the Preview link to take a look at your changes.
 ![Mongo DB](https://img.shields.io/badge/MongoDB-316192?style=flat&logo=mongodb&logoColor=47A248)
 
 #### Tools and Technologies
-
 
 ![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -112,11 +108,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- ![Babel](https://img.shields.io/badge/Babel-yellow?style=flat&logo=babel&logoColor=black) -->
 <!-- ![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=flat&logo=nodemon&logoColor=white) -->
-
-
-  
 <!-- ![PyPI](https://img.shields.io/badge/pypi-3775A9?style=flat&logo=pypi&logoColor=white)&nbsp; -->
- 
 
 #### Data Analytics 
 
