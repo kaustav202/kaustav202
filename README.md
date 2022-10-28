@@ -356,14 +356,14 @@ Featured Repositories.
 <!-- 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [kaustav202/kaustav202](https://github.com/kaustav202/kaustav202)
-2. ⭐ Starred [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react)
-3. ⭐ Starred [vasanthk/react-bits](https://github.com/vasanthk/react-bits)
-4. 💪 Opened PR [#4535](https://github.com/ToolJet/ToolJet/pull/4535) in [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
-5. ⬆️ Pushed 1 commit(s) to [kaustav202/ToolJet](https://github.com/kaustav202/ToolJet)
-6. 🔱 Forked [kaustav202/ToolJet](https://github.com/kaustav202/ToolJet) from [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
-7. ❗️ Opened issue [#4533](https://github.com/ToolJet/ToolJet/issues/4533) in [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
-8. 💪 Opened PR [#217](https://github.com/Clueless-Community/web-ui-kit/pull/217) in [Clueless-Community/web-ui-kit](https://github.com/Clueless-Community/web-ui-kit)
+1. ⬆️ Pushed 1 commit(s) to [kaustav202/Problem-Solving-Techniques](https://github.com/kaustav202/Problem-Solving-Techniques)
+2. ⬆️ Pushed 1 commit(s) to [kaustav202/Problem-Solving-Techniques](https://github.com/kaustav202/Problem-Solving-Techniques)
+3. ⬆️ Pushed 1 commit(s) to [kaustav202/Problem-Solving-Techniques](https://github.com/kaustav202/Problem-Solving-Techniques)
+4. ⬆️ Pushed 1 commit(s) to [kaustav202/Problem-Solving-Techniques](https://github.com/kaustav202/Problem-Solving-Techniques)
+5. ⬆️ Pushed 1 commit(s) to [kaustav202/Problem-Solving-Techniques](https://github.com/kaustav202/Problem-Solving-Techniques)
+6. ⬆️ Pushed 1 commit(s) to [kaustav202/Problem-Solving-Techniques](https://github.com/kaustav202/Problem-Solving-Techniques)
+7. ✔️ Closed issue [#14](https://github.com/kaustav202/RealTime-TwitterDataAnalysis/issues/14) in [kaustav202/RealTime-TwitterDataAnalysis](https://github.com/kaustav202/RealTime-TwitterDataAnalysis)
+8. ⬆️ Pushed 4 commit(s) to [kaustav202/RealTime-TwitterDataAnalysis](https://github.com/kaustav202/RealTime-TwitterDataAnalysis)
 <!--RECENT_ACTIVITY:end-->
 
 </br>
