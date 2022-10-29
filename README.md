@@ -356,14 +356,14 @@ Featured Repositories.
 <!-- 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [kaustav202/Problem-Solving-Techniques](https://github.com/kaustav202/Problem-Solving-Techniques)
-2. ⬆️ Pushed 1 commit(s) to [kaustav202/Problem-Solving-Techniques](https://github.com/kaustav202/Problem-Solving-Techniques)
-3. ⬆️ Pushed 1 commit(s) to [kaustav202/Problem-Solving-Techniques](https://github.com/kaustav202/Problem-Solving-Techniques)
+1. ⬆️ Pushed 2 commit(s) to [kaustav202/organica](https://github.com/kaustav202/organica)
+2. 🎉 Merged PR [#34](https://github.com/kaustav202/organica/pull/34) in [kaustav202/organica](https://github.com/kaustav202/organica)
+3. 👍 Approved [#34](https://github.com/kaustav202/organica/pull/34#pullrequestreview-1161004544) in [kaustav202/organica](https://github.com/kaustav202/organica)
 4. ⬆️ Pushed 1 commit(s) to [kaustav202/Problem-Solving-Techniques](https://github.com/kaustav202/Problem-Solving-Techniques)
 5. ⬆️ Pushed 1 commit(s) to [kaustav202/Problem-Solving-Techniques](https://github.com/kaustav202/Problem-Solving-Techniques)
 6. ⬆️ Pushed 1 commit(s) to [kaustav202/Problem-Solving-Techniques](https://github.com/kaustav202/Problem-Solving-Techniques)
-7. ✔️ Closed issue [#14](https://github.com/kaustav202/RealTime-TwitterDataAnalysis/issues/14) in [kaustav202/RealTime-TwitterDataAnalysis](https://github.com/kaustav202/RealTime-TwitterDataAnalysis)
-8. ⬆️ Pushed 4 commit(s) to [kaustav202/RealTime-TwitterDataAnalysis](https://github.com/kaustav202/RealTime-TwitterDataAnalysis)
+7. ⬆️ Pushed 1 commit(s) to [kaustav202/Problem-Solving-Techniques](https://github.com/kaustav202/Problem-Solving-Techniques)
+8. ⬆️ Pushed 1 commit(s) to [kaustav202/Problem-Solving-Techniques](https://github.com/kaustav202/Problem-Solving-Techniques)
 <!--RECENT_ACTIVITY:end-->
 
 </br>
