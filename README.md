@@ -356,14 +356,14 @@ Featured Repositories.
 <!-- 
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#25](https://github.com/IIT-M-Data-Science/Support/issues/25) in [IIT-M-Data-Science/Support](https://github.com/IIT-M-Data-Science/Support)
-2. ⭐ Starred [pusher/pusher-js](https://github.com/pusher/pusher-js)
-3. ⭐ Starred [amplication/amplication](https://github.com/amplication/amplication)
-4. ⬆️ Pushed 2 commit(s) to [kaustav202/organica](https://github.com/kaustav202/organica)
-5. 🎉 Merged PR [#34](https://github.com/kaustav202/organica/pull/34) in [kaustav202/organica](https://github.com/kaustav202/organica)
-6. 👍 Approved [#34](https://github.com/kaustav202/organica/pull/34#pullrequestreview-1161004544) in [kaustav202/organica](https://github.com/kaustav202/organica)
+1. ⬆️ Pushed 1 commit(s) to [kaustav202/Problem-Solving-Techniques](https://github.com/kaustav202/Problem-Solving-Techniques)
+2. ⬆️ Pushed 1 commit(s) to [kaustav202/Problem-Solving-Techniques](https://github.com/kaustav202/Problem-Solving-Techniques)
+3. ⬆️ Pushed 1 commit(s) to [kaustav202/Problem-Solving-Techniques](https://github.com/kaustav202/Problem-Solving-Techniques)
+4. ⬆️ Pushed 1 commit(s) to [kaustav202/Problem-Solving-Techniques](https://github.com/kaustav202/Problem-Solving-Techniques)
+5. ⬆️ Pushed 1 commit(s) to [kaustav202/Problem-Solving-Techniques](https://github.com/kaustav202/Problem-Solving-Techniques)
+6. ⬆️ Pushed 1 commit(s) to [kaustav202/Problem-Solving-Techniques](https://github.com/kaustav202/Problem-Solving-Techniques)
 7. ⬆️ Pushed 1 commit(s) to [kaustav202/Problem-Solving-Techniques](https://github.com/kaustav202/Problem-Solving-Techniques)
-8. ⬆️ Pushed 1 commit(s) to [kaustav202/Problem-Solving-Techniques](https://github.com/kaustav202/Problem-Solving-Techniques)
+8. ❗️ Opened issue [#25](https://github.com/IIT-M-Data-Science/Support/issues/25) in [IIT-M-Data-Science/Support](https://github.com/IIT-M-Data-Science/Support)
 <!--RECENT_ACTIVITY:end-->
 
 </br>
