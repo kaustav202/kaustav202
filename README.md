@@ -60,7 +60,6 @@ You can click the Preview link to take a look at your changes.
 #### Languages
 
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Java](https://img.shields.io/badge/Java-%23150458.svg?style=flat&logo=java&logoColor=orange)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript&logoColor=yellow)&nbsp;
