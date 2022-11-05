@@ -451,8 +451,9 @@ Featured Repositories.
 </br>
 </br>
 
-
+<!--
 <img src="https://octodex.github.com/images/pythocat.png" width="25%" /><img src="https://octodex.github.com/images/spidertocat.png" width="25%"/><img src="https://octodex.github.com/images/megacat-2.png" width="25%"  />
+-->
 
 <!--
 
