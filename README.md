@@ -93,7 +93,7 @@ You can click the Preview link to take a look at your changes.
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Webpack](https://img.shields.io/badge/Webpack-yellow?style=flat&logo=Webpack&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
- ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -101,7 +101,6 @@ You can click the Preview link to take a look at your changes.
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=Sequelize&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=flat&logo=kubernetes&logoColor=white)
-
 
 <!-- ![Babel](https://img.shields.io/badge/Babel-yellow?style=flat&logo=babel&logoColor=black) -->
 <!-- ![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=flat&logo=nodemon&logoColor=white) -->
@@ -119,7 +118,6 @@ You can click the Preview link to take a look at your changes.
   
 ## 📄📜 Stats
 
-
 <p align="center">
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=kaustav202&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
  </br>
@@ -132,7 +130,6 @@ You can click the Preview link to take a look at your changes.
  </tr>
 </table>
 
-
 <!--
 #### Cloud Infrastructures
 
@@ -140,7 +137,6 @@ You can click the Preview link to take a look at your changes.
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)&nbsp;
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)&nbsp;
-
 
 #### Environments
 
@@ -153,14 +149,12 @@ You can click the Preview link to take a look at your changes.
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)&nbsp;
 -->
 
-
 <!--
-
 <br />
 
 <details>
 
-  <summary><h2> 📌🏴  Coding Profiles </h2></summary>
+<summary><h2> 📌🏴  Coding Profiles </h2></summary>
 
 </br>
 </br>
