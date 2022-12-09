@@ -319,9 +319,6 @@ Featured Repositories.
 
 </details>
  -->
- 
- 
-
   
 <!-- ## Here are some highlights of my open source journey 
 
@@ -361,8 +358,6 @@ Featured Repositories.
 
   <table  >
  <tr>
-  
-
 
   <td width="65%" align = "left">
 
