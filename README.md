@@ -374,12 +374,13 @@ Featured Repositories.
 
   </td>
   
-  <td width="600px">
+<!--  <td width="600px">
    
    
 <img src="https://user-images.githubusercontent.com/89788120/170630709-6f2bfc50-afe0-4321-b3c2-6b151e40dc29.png" align="right"/> 
    
   </td>
+-->
   
  </tr>
  </table>
@@ -387,7 +388,7 @@ Featured Repositories.
  
  </br>
  
-## &nbsp; &nbsp; &nbsp;🔥 My Motto
+## &nbsp; &nbsp; &nbsp;🔥 Motto
 
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <img  src="https://readme-typing-svg.herokuapp.com?font=Soucre+Code+Pro&duration=1700&color=12263A&background=ffffff&multiline=true&width=650&height=220&lines=while(true);..+brain.init();..+if(+world.contains(open_source));....++s+%3D+open_source.login(kaustav202);....+s.explore();....+s.learn();....+s.contribute()"/>
