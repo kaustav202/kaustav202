@@ -344,14 +344,14 @@ Featured Repositories.
 <!-- 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [kaustav202/kaustav202](https://github.com/kaustav202/kaustav202)
-2. ⬆️ Pushed 1 commit(s) to [kaustav202/Problem-Solving-Techniques](https://github.com/kaustav202/Problem-Solving-Techniques)
-3. ⬆️ Pushed 1 commit(s) to [kaustav202/Problem-Solving-Techniques](https://github.com/kaustav202/Problem-Solving-Techniques)
-4. ⬆️ Pushed 1 commit(s) to [kaustav202/Problem-Solving-Techniques](https://github.com/kaustav202/Problem-Solving-Techniques)
-5. ⬆️ Pushed 1 commit(s) to [kaustav202/Problem-Solving-Techniques](https://github.com/kaustav202/Problem-Solving-Techniques)
-6. ⬆️ Pushed 1 commit(s) to [kaustav202/Problem-Solving-Techniques](https://github.com/kaustav202/Problem-Solving-Techniques)
-7. ⬆️ Pushed 1 commit(s) to [kaustav202/Problem-Solving-Techniques](https://github.com/kaustav202/Problem-Solving-Techniques)
-8. ⬆️ Pushed 1 commit(s) to [kaustav202/Problem-Solving-Techniques](https://github.com/kaustav202/Problem-Solving-Techniques)
+1. ✔️ Closed issue [#29](https://github.com/kaustav202/organica/issues/29) in [kaustav202/organica](https://github.com/kaustav202/organica)
+2. ⬆️ Pushed 5 commit(s) to [kaustav202/organica](https://github.com/kaustav202/organica)
+3. 🎉 Merged PR [#35](https://github.com/kaustav202/organica/pull/35) in [kaustav202/organica](https://github.com/kaustav202/organica)
+4. 👍 Approved [#35](https://github.com/kaustav202/organica/pull/35#pullrequestreview-1222531303) in [kaustav202/organica](https://github.com/kaustav202/organica)
+5. ⬆️ Pushed 1 commit(s) to [Tushar98644/organica](https://github.com/Tushar98644/organica)
+6. ⬆️ Pushed 1 commit(s) to [Tushar98644/organica](https://github.com/Tushar98644/organica)
+7. ⬆️ Pushed 1 commit(s) to [Tushar98644/organica](https://github.com/Tushar98644/organica)
+8. ⬆️ Pushed 1 commit(s) to [kaustav202/kaustav202](https://github.com/kaustav202/kaustav202)
 <!--RECENT_ACTIVITY:end-->
 
 </br>
