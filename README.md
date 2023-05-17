@@ -344,9 +344,6 @@ Featured Repositories.
 <!-- 
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [kaustav202/test](https://github.com/kaustav202/test)
-2. ⬆️ Pushed 1 commit(s) to [kaustav202/mern-test](https://github.com/kaustav202/mern-test)
-3. 📔 Created new repository [kaustav202/mern-test](https://github.com/kaustav202/mern-test)
 <!--RECENT_ACTIVITY:end-->
 
 </br>
