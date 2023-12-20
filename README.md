@@ -344,6 +344,8 @@ Featured Repositories.
 <!-- 
 
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars)
+2. ⭐ Starred [theailifestyle/AssistantsAPI](https://github.com/theailifestyle/AssistantsAPI)
 <!--RECENT_ACTIVITY:end-->
 
 </br>
