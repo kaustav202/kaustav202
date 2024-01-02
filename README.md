@@ -344,10 +344,14 @@ Featured Repositories.
 <!-- 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [kaustav202/search-genie](https://github.com/kaustav202/search-genie)
-2. 📔 Created new repository [kaustav202/search-genie](https://github.com/kaustav202/search-genie)
-3. ⭐ Starred [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars)
-4. ⭐ Starred [theailifestyle/AssistantsAPI](https://github.com/theailifestyle/AssistantsAPI)
+1. ⬆️ Pushed 1 commit(s) to [kaustav202/Problem-Solving-Techniques](https://github.com/kaustav202/Problem-Solving-Techniques)
+2. ⬆️ Pushed 1 commit(s) to [kaustav202/Problem-Solving-Techniques](https://github.com/kaustav202/Problem-Solving-Techniques)
+3. ⬆️ Pushed 1 commit(s) to [kaustav202/Problem-Solving-Techniques](https://github.com/kaustav202/Problem-Solving-Techniques)
+4. 📔 Created new repository [kaustav202/problems-new](https://github.com/kaustav202/problems-new)
+5. ⭐ Starred [joshcai/leetcode-sync](https://github.com/joshcai/leetcode-sync)
+6. ⬆️ Pushed 1 commit(s) to [kaustav202/search-genie](https://github.com/kaustav202/search-genie)
+7. 📔 Created new repository [kaustav202/search-genie](https://github.com/kaustav202/search-genie)
+8. ⭐ Starred [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars)
 <!--RECENT_ACTIVITY:end-->
 
 </br>
