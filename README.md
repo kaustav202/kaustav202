@@ -347,11 +347,11 @@ Featured Repositories.
 1. ⬆️ Pushed 1 commit(s) to [kaustav202/Problem-Solving-Techniques](https://github.com/kaustav202/Problem-Solving-Techniques)
 2. ⬆️ Pushed 1 commit(s) to [kaustav202/Problem-Solving-Techniques](https://github.com/kaustav202/Problem-Solving-Techniques)
 3. ⬆️ Pushed 1 commit(s) to [kaustav202/Problem-Solving-Techniques](https://github.com/kaustav202/Problem-Solving-Techniques)
-4. 📔 Created new repository [kaustav202/problems-new](https://github.com/kaustav202/problems-new)
-5. ⭐ Starred [joshcai/leetcode-sync](https://github.com/joshcai/leetcode-sync)
-6. ⬆️ Pushed 1 commit(s) to [kaustav202/search-genie](https://github.com/kaustav202/search-genie)
-7. 📔 Created new repository [kaustav202/search-genie](https://github.com/kaustav202/search-genie)
-8. ⭐ Starred [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars)
+4. ⬆️ Pushed 1 commit(s) to [kaustav202/Problem-Solving-Techniques](https://github.com/kaustav202/Problem-Solving-Techniques)
+5. ⬆️ Pushed 1 commit(s) to [kaustav202/Problem-Solving-Techniques](https://github.com/kaustav202/Problem-Solving-Techniques)
+6. 📔 Created new repository [kaustav202/problems-new](https://github.com/kaustav202/problems-new)
+7. ⭐ Starred [joshcai/leetcode-sync](https://github.com/joshcai/leetcode-sync)
+8. ⬆️ Pushed 1 commit(s) to [kaustav202/search-genie](https://github.com/kaustav202/search-genie)
 <!--RECENT_ACTIVITY:end-->
 
 </br>
