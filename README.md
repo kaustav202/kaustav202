@@ -344,14 +344,14 @@ Featured Repositories.
 <!-- 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [kaustav202/search-genie](https://github.com/kaustav202/search-genie)
-2. ⬆️ Pushed 1 commit(s) to [kaustav202/search-genie](https://github.com/kaustav202/search-genie)
-3. ⬆️ Pushed 1 commit(s) to [kaustav202/search-genie](https://github.com/kaustav202/search-genie)
-4. ⬆️ Pushed 1 commit(s) to [kaustav202/Elastic-Chat](https://github.com/kaustav202/Elastic-Chat)
+1. ⬆️ Pushed 1 commit(s) to [kaustav202/Problem-Solving-Techniques](https://github.com/kaustav202/Problem-Solving-Techniques)
+2. ⬆️ Pushed 1 commit(s) to [kaustav202/Problem-Solving-Techniques](https://github.com/kaustav202/Problem-Solving-Techniques)
+3. ⬆️ Pushed 1 commit(s) to [kaustav202/Problem-Solving-Techniques](https://github.com/kaustav202/Problem-Solving-Techniques)
+4. ⬆️ Pushed 1 commit(s) to [kaustav202/Problem-Solving-Techniques](https://github.com/kaustav202/Problem-Solving-Techniques)
 5. ⬆️ Pushed 1 commit(s) to [kaustav202/Problem-Solving-Techniques](https://github.com/kaustav202/Problem-Solving-Techniques)
 6. ⬆️ Pushed 1 commit(s) to [kaustav202/Problem-Solving-Techniques](https://github.com/kaustav202/Problem-Solving-Techniques)
-7. ⬆️ Pushed 1 commit(s) to [kaustav202/Problem-Solving-Techniques](https://github.com/kaustav202/Problem-Solving-Techniques)
-8. ⭐ Starred [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design)
+7. ⬆️ Pushed 1 commit(s) to [kaustav202/search-genie](https://github.com/kaustav202/search-genie)
+8. ⬆️ Pushed 1 commit(s) to [kaustav202/search-genie](https://github.com/kaustav202/search-genie)
 <!--RECENT_ACTIVITY:end-->
 
 </br>
