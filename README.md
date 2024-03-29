@@ -347,11 +347,11 @@ Featured Repositories.
 1. ⬆️ Pushed 1 commit(s) to [kaustav202/Problem-Solving-Techniques](https://github.com/kaustav202/Problem-Solving-Techniques)
 2. ⬆️ Pushed 1 commit(s) to [kaustav202/Problem-Solving-Techniques](https://github.com/kaustav202/Problem-Solving-Techniques)
 3. ⬆️ Pushed 1 commit(s) to [kaustav202/Problem-Solving-Techniques](https://github.com/kaustav202/Problem-Solving-Techniques)
-4. ⬆️ Pushed 1 commit(s) to [kaustav202/Elastic-Chat](https://github.com/kaustav202/Elastic-Chat)
-5. ⬆️ Pushed 1 commit(s) to [kaustav202/Elastic-Chat](https://github.com/kaustav202/Elastic-Chat)
-6. ⬆️ Pushed 1 commit(s) to [kaustav202/search-genie](https://github.com/kaustav202/search-genie)
-7. ⬆️ Pushed 1 commit(s) to [kaustav202/search-genie](https://github.com/kaustav202/search-genie)
-8. ⬆️ Pushed 1 commit(s) to [kaustav202/search-genie](https://github.com/kaustav202/search-genie)
+4. ⬆️ Pushed 1 commit(s) to [kaustav202/Problem-Solving-Techniques](https://github.com/kaustav202/Problem-Solving-Techniques)
+5. ⬆️ Pushed 1 commit(s) to [kaustav202/Problem-Solving-Techniques](https://github.com/kaustav202/Problem-Solving-Techniques)
+6. ⬆️ Pushed 1 commit(s) to [kaustav202/Problem-Solving-Techniques](https://github.com/kaustav202/Problem-Solving-Techniques)
+7. ⬆️ Pushed 1 commit(s) to [kaustav202/Elastic-Chat](https://github.com/kaustav202/Elastic-Chat)
+8. ⬆️ Pushed 1 commit(s) to [kaustav202/Elastic-Chat](https://github.com/kaustav202/Elastic-Chat)
 <!--RECENT_ACTIVITY:end-->
 
 </br>
