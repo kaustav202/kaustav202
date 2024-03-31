@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Kaustav;Software+Engineer...;Cloud+Native+Enthusiast...;Open+Source+Contributor..;DevRel+&+Advocacy.."/>
  
- <p>- <i>Software Engineer focused on cloud native distributed systems, building products for startups and big tech. Equipped with a diverse skill-set and problem solving ability, placing a special emphasis on system level thinking and good quality code. Also regularly write technical blogs and articles for various popular tech sites.</i></p>
+ <p>- <i>Software Engineer focused on cloud native distributed systems, building products for startups and big tech. Equipped with a diverse skill-set and problem solving ability, placing a special emphasis on system level thinking and good quality code. Also regularly write technical blogs and articles for various popular tech sites. I host my personal projects ( code & infra ), along with elaborate documentation here, and also the open source repositories I have contributed to</i></p>
 
 ![scroll_holo_back_adjust1](https://user-images.githubusercontent.com/89788120/171252746-c0b5acb7-cca0-4f81-a70c-afb9789ceae0.gif)
 
