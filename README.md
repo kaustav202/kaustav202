@@ -8,7 +8,9 @@
  
  <p>- <i>Software Engineer focused on cloud native distributed systems, building products for startups and big tech. Equipped with a diverse skill-set and problem solving ability, placing a special emphasis on system level thinking and good quality code. Also regularly write technical blogs and articles for various popular tech sites. I host my personal projects ( code & infra ), along with elaborate documentation here, and also the open source repositories I have contributed to</i></p>
 
-![scroll_holo_back_adjust1](https://user-images.githubusercontent.com/89788120/171252746-c0b5acb7-cca0-4f81-a70c-afb9789ceae0.gif)
+<img src="https://github.com/kaustav202/kaustav202/assets/89788120/dfd27902-23f2-4288-90e6-9980563f0319" />
+
+
 
 
 &nbsp;  <a href="https://github.com/kaustav202#%EF%B8%8F-skills"> <img src="https://dabuttonfactory.com/button.png?t=Skills&f=Pacifico&ts=18&tc=fff&tshs=1&tshc=170741&hp=30&vp=9&c=round&bgt=pyramid&bgc=fabd9b&ebgc=ff9950&be=1" /></a> &nbsp;&nbsp; <a href="https://github.com/kaustav202#---featured-repositories--"> <img src="https://dabuttonfactory.com/button.png?t=Repositories&f=Pacifico&ts=18&tc=fff&tshs=1&tshc=170741&hp=30&vp=9&c=round&bgt=pyramid&bgc=fabd9b&ebgc=ff9950&be=1" /> </a> &nbsp;&nbsp;<a href="https://github.com/kaustav202#%EF%B8%8F----contribution-overview-and-activity"> <img src="https://dabuttonfactory.com/button.png?t=Activity&f=Pacifico&ts=18&tc=fff&tshs=1&tshc=170741&hp=30&vp=9&c=round&bgt=pyramid&bgc=fabd9b&ebgc=ff9950&be=1" /> </a>&nbsp;&nbsp; <a href="https://github.com/kaustav202#-------recent-articles-and-blog-posts--" > <img src="https://dabuttonfactory.com/button.png?t=Blogs&f=Pacifico&ts=18&tc=fff&tshs=1&tshc=170741&hp=32&vp=9&c=round&bgt=pyramid&bgc=fabd9b&ebgc=ff9950&be=1" /> </a> &nbsp;&nbsp; <a href="https://github.com/kaustav202#----connnect-with-me"> <img src="https://dabuttonfactory.com/button.png?t=Contact&f=Pacifico&ts=18&tc=fff&tshs=1&tshc=170741&hp=32&vp=9&c=round&bgt=pyramid&bgc=fabd9b&ebgc=ff9950&be=1" /> </a>
@@ -387,14 +389,15 @@ Featured Repositories.
  
  
  </br>
- 
+
+
+<!--
 ## &nbsp; &nbsp; &nbsp;🔥 Motto
-
-
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <img  src="https://readme-typing-svg.herokuapp.com?font=Soucre+Code+Pro&duration=1700&color=12263A&background=ffffff&multiline=true&width=650&height=220&lines=while(true);..+brain.init();..+if(+world.contains(open_source));....++s+%3D+open_source.login(kaustav202);....+s.explore();....+s.learn();....+s.contribute()"/>
+-->
 
 <div align="center">
- <b style = {font-weight: 600}>Visitors Count</b>
+ <b style = {font-weight: 500}>Visitors</b>
 
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{kaustav202}/count.svg" /></p> 
 <br>
