@@ -1,8 +1,8 @@
 {
   "type": "bitmap",
   "backgroundColor": "transparent",
-  "foregroundColor": "#00000f",
-  "strongColor": "#111133",
+  "foregroundColor": "#222426",
+  "strongColor": "#d186af",
   "weakColor": "gray",
   "radarColor": "#47a042",
   "growingAnimation": true,
