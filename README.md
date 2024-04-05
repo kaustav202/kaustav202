@@ -115,7 +115,7 @@ You can click the Preview link to take a look at your changes.
 </td>
     <td>
   
-## 📄📜 Stats [Dynamic Update🚀]
+## 📄📜 Stats [Dynamic🚀]
 
 <p align="center">
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=kaustav202&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
@@ -311,11 +311,11 @@ Featured Repositories.
 
 ##   🗓️&nbsp; &nbsp;  Activity Overview
  
-<img width="77%" align="left" src ="profile-3d-contrib/night.svg"/> &nbsp; &nbsp;
- 
+<img width="77%" align="left" src ="profile-3d-contrib/profile-customize.svg"/> &nbsp; &nbsp;
 
 
-<img  width="77%" align="left" src="https://activity-graph.herokuapp.com/graph?username=kaustav202&custom_title=Recent%20Contribution%20Graph&bg_color=ffffff&color=aab2fe&line=6498b0&point=FFFFFF&theme=react-dark&hide_border=true&area=true&hide_title=true"/>
+<img src = "https://github-readme-activity-graph.vercel.app/graph?username=kaustav202&custom_title=Recent%20Contribution%20Graph&line=6498b0&point=FFFFFF&theme=react-dark&hide_border=true&area=true&hide_title=true" width="77%" align="left"/>
+
 
 
 <h4 width="15%" align="left"> Recent Activity </h4> 
@@ -336,13 +336,15 @@ Featured Repositories.
 </br>
 
 
-<h3>  &nbsp; &nbsp; <b> 📕 </b> &nbsp;Recent Articles and Blog Posts  </h3>
+
   <table  >
  <tr>
 
   <td width="65%" align = "left">
 
-   <h3>  &nbsp; &nbsp; &nbsp; Source➡️ medium.com </h3>
+  <h3>  &nbsp; &nbsp; <b> 📕 </b> &nbsp;Recent Articles and Blog Posts  </h3>
+
+   <h4>  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Source➡️ medium.com </h4>
 
    
 <!-- BLOG-POST-LIST:START -->
