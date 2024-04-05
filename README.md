@@ -118,11 +118,11 @@ You can click the Preview link to take a look at your changes.
 ## 📄📜 Stats [Dynamic🚀]
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=kaustav202&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=kaustav202&theme=algolia&show_icons=true&bg_color=00000000&title_color=cc7acc&text_color=777" />
  </br>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=kaustav202"/>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=kaustav202&background=00000000&hide_border=true&theme=highcontrast&currStreakNum=777&sideNums=777&stroke=777&dates=777&sideLabels=777"/>
  </br>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustav202&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustav202&exclude_repo=Portfolio,HomePal,Problem-Solving-Techniques,micro-os&langs_count=10&layout=compact&bg_color=00000000&size_weight=0.5&count_weight=0.5&title_color=a956d1" />
 </p>
      
   </td>
@@ -192,11 +192,11 @@ You can click the Preview link to take a look at your changes.
 
 </br>
 
-<a href='https://github.com/kaustav202/search-genie'><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=search-genie&theme=vue"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://github.com/kaustav202/micro-os'><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=micro-os&theme=buefy&title_color=2f1970cf&icon_color=553b9de1"/> </a>
+<a href='https://github.com/kaustav202/search-genie'><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=search-genie&theme=swift&bg_color=f7f7f7ce"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://github.com/kaustav202/micro-os'><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=micro-os&theme=swift&title_color=2f1970cf&icon_color=553b9de1&bg_color=f7f7f7ce"/> </a>
 
 </br>
 
-<a href='https://github.com/kaustav202/Gamer-Hub'><img width="48%" src = "https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=Gamer-Hub&theme=swift&bg_color=f7f7f7ce"/></a> &nbsp; &nbsp;&nbsp;&nbsp;<a href='https://github.com/kaustav202/RealTime-TwitterDataAnalysis'><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=RealTime-TwitterDataAnalysis&theme=buefy&title_color=2f1970cf&icon_color=553b9de1"/></a>
+<a href='https://github.com/kaustav202/Gamer-Hub'><img width="48%" src = "https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=Gamer-Hub&theme=swift&bg_color=f7f7f7ce"/></a> &nbsp; &nbsp;&nbsp;&nbsp;<a href='https://github.com/kaustav202/RealTime-TwitterDataAnalysis'><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=RealTime-TwitterDataAnalysis&theme=swift&title_color=2f1970cf&icon_color=553b9de1&bg_color=f7f7f7ce"/></a>
 
  </details>
 
