@@ -115,7 +115,7 @@ You can click the Preview link to take a look at your changes.
 </td>
     <td>
   
-## 📄📜 Stats
+## 📄📜 Stats [Dynamic Update🚀]
 
 <p align="center">
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=kaustav202&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
@@ -311,7 +311,7 @@ Featured Repositories.
 
 ##   🗓️&nbsp; &nbsp;  Activity Overview
  
-<img width="77%" align="left" src ="profile-3d-contrib/profile-customize.svg"/> &nbsp; &nbsp;
+<img width="77%" align="left" src ="profile-3d-contrib/night.svg"/> &nbsp; &nbsp;
  
 
 
@@ -335,12 +335,14 @@ Featured Repositories.
 
 </br>
 
+
+<h3>  &nbsp; &nbsp; <b> 📕 </b> &nbsp;Recent Articles and Blog Posts  </h3>
   <table  >
  <tr>
 
   <td width="65%" align = "left">
 
-   <h3>  &nbsp; &nbsp; <b> 📕 </b> &nbsp;Recent Articles and Blog Posts  </h3>
+   <h3>  &nbsp; &nbsp; &nbsp; Source➡️ medium.com </h3>
 
    
 <!-- BLOG-POST-LIST:START -->
@@ -373,12 +375,15 @@ Featured Repositories.
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <img  src="https://readme-typing-svg.herokuapp.com?font=Soucre+Code+Pro&duration=1700&color=12263A&background=ffffff&multiline=true&width=650&height=220&lines=while(true);..+brain.init();..+if(+world.contains(open_source));....++s+%3D+open_source.login(kaustav202);....+s.explore();....+s.learn();....+s.contribute()"/>
 -->
 
+<!--
 <div align="center">
  <b style = {font-weight: 500}>Visitors</b>
 
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{kaustav202}/count.svg" /></p> 
 <br>
 </div>
+
+-->
  
 <!-- 
 <details>
@@ -409,7 +414,7 @@ Featured Repositories.
 </br>
 
 &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/kgan31/"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
-<a href="mailto:gkaustav57@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp; 
+<a href="mailto:kaustav.connect@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp; 
 <a href = "https://discordapp.com/users/885073575839670302"><img width="100px" alt = "Discord" src = "https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white"/></a>
 
 </br>
