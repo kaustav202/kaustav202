@@ -188,19 +188,15 @@ You can click the Preview link to take a look at your changes.
 
 </br>
 
-<a href='https://github.com/kaustav202/Cryptosense'><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=Cryptosense&theme=swift&bg_color=f7f7f7ce"/></a>  &nbsp;&nbsp; &nbsp; &nbsp;<a href='https://github.com/kaustav202/TV-Show-Management-App'><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=TV-Show-Management-App&theme=swift&bg_color=f7f7f7ce"/></a>
+<a href='https://github.com/kaustav202/Cryptosense'><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=Cryptosense&theme=swift&bg_color=f7f7f7ce"/></a>  &nbsp;&nbsp; &nbsp; &nbsp;<a href='https://github.com/kaustav202/Elastic-Chat'><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=Elastic-Chat&theme=swift&bg_color=f7f7f7ce"/></a>
+
+</br>
+
+<a href='https://github.com/kaustav202/search-genie'><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=search-genie&theme=vue"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://github.com/kaustav202/micro-os'><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=micro-os&theme=buefy&title_color=2f1970cf&icon_color=553b9de1"/> </a>
 
 </br>
 
 <a href='https://github.com/kaustav202/Gamer-Hub'><img width="48%" src = "https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=Gamer-Hub&theme=swift&bg_color=f7f7f7ce"/></a> &nbsp; &nbsp;&nbsp;&nbsp;<a href='https://github.com/kaustav202/RealTime-TwitterDataAnalysis'><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=RealTime-TwitterDataAnalysis&theme=buefy&title_color=2f1970cf&icon_color=553b9de1"/></a>
-
-</br>
-
-<a href='https://github.com/kaustav202/JS-DOM-Snippets'><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=JS-DOM-Snippets&theme=vue"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://github.com/kaustav202/News-Accumulator'><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=News-Accumulator&theme=buefy&title_color=2f1970cf&icon_color=553b9de1"/> </a>
-
-</br>
-
-<a href='https://github.com/kaustav202/Tech-Insight'><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=Tech-Vision&theme=vue"/></a>&nbsp;&nbsp; &nbsp;&nbsp;<a href='https://github.com/kaustav202/HomePal'><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=HomePal&theme=swift&bg_color=f7f7f7ce"/></a>
 
  </details>
 
@@ -313,7 +309,7 @@ Featured Repositories.
 </br>
 </br>
 
-##   🗓️&nbsp; &nbsp;   Contribution Overview and Activity 
+##   🗓️&nbsp; &nbsp;  Activity Overview
  
 <img width="77%" align="left" src ="profile-3d-contrib/profile-customize.svg"/> &nbsp; &nbsp;
  
