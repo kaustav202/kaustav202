@@ -323,18 +323,18 @@ Featured Repositories.
 <!-- 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [kaustav202/rust-web-server](https://github.com/kaustav202/rust-web-server)
-2. ⬆️ Pushed 1 commit(s) to [kaustav202/rust-web-server](https://github.com/kaustav202/rust-web-server)
-3. ⬆️ Pushed 1 commit(s) to [kaustav202/rust-web-server](https://github.com/kaustav202/rust-web-server)
-4. ⬆️ Pushed 1 commit(s) to [kaustav202/rust-web-server](https://github.com/kaustav202/rust-web-server)
-5. ⬆️ Pushed 1 commit(s) to [kaustav202/rust-web-server](https://github.com/kaustav202/rust-web-server)
-6. ⬆️ Pushed 1 commit(s) to [kaustav202/rust-web-server](https://github.com/kaustav202/rust-web-server)
-7. ⬆️ Pushed 1 commit(s) to [kaustav202/rust-web-server](https://github.com/kaustav202/rust-web-server)
-8. ⬆️ Pushed 1 commit(s) to [kaustav202/rust-web-server](https://github.com/kaustav202/rust-web-server)
-9. ⬆️ Pushed 1 commit(s) to [kaustav202/rust-web-server](https://github.com/kaustav202/rust-web-server)
-10. 📔 Created new repository [kaustav202/rust-web-server](https://github.com/kaustav202/rust-web-server)
-11. ⬆️ Pushed 1 commit(s) to [kaustav202/Rust-Web-APIs](https://github.com/kaustav202/Rust-Web-APIs)
-12. 📔 Created new repository [kaustav202/Rust-Web-APIs](https://github.com/kaustav202/Rust-Web-APIs)
+1. ⬆️ Pushed 1 commit(s) to [kaustav202/rust-services](https://github.com/kaustav202/rust-services)
+2. ⬆️ Pushed 1 commit(s) to [kaustav202/rust-services](https://github.com/kaustav202/rust-services)
+3. ⬆️ Pushed 1 commit(s) to [kaustav202/rust-services](https://github.com/kaustav202/rust-services)
+4. ⬆️ Pushed 1 commit(s) to [kaustav202/rust-services](https://github.com/kaustav202/rust-services)
+5. ⬆️ Pushed 1 commit(s) to [kaustav202/rust-services](https://github.com/kaustav202/rust-services)
+6. ⬆️ Pushed 1 commit(s) to [kaustav202/rust-services](https://github.com/kaustav202/rust-services)
+7. ⬆️ Pushed 1 commit(s) to [kaustav202/rust-services](https://github.com/kaustav202/rust-services)
+8. ⬆️ Pushed 1 commit(s) to [kaustav202/rust-services](https://github.com/kaustav202/rust-services)
+9. ⬆️ Pushed 1 commit(s) to [kaustav202/rust-services](https://github.com/kaustav202/rust-services)
+10. 📔 Created new repository [kaustav202/rust-services](https://github.com/kaustav202/rust-services)
+11. ⬆️ Pushed 1 commit(s) to [kaustav202/RAG-Pipeline](https://github.com/kaustav202/RAG-Pipeline)
+12. ⬆️ Pushed 1 commit(s) to [kaustav202/RAG-Pipeline](https://github.com/kaustav202/RAG-Pipeline)
 <!--RECENT_ACTIVITY:end-->
 
 </br>
