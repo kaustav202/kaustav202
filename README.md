@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Kaustav;Software+Engineer...;Cloud+Native+Enthusiast...;Open+Source+Contributor..;DevRel+&+Advocacy.."/>
  
- <p>- <i>Software Engineer focused on cloud native distributed systems, building products for startups and big tech. Equipped with a diverse skill-set and problem solving ability, placing a special emphasis on system level thinking and good quality code. Also regularly write technical blogs and articles for various popular tech sites. I host my personal projects ( code & infra ), along with elaborate documentation here, and also the open source repositories I have contributed to</i></p>
+ <p>- <i>Software Engineer focused on cloud native distributed systems, building products for startup. Equipped with a diverse skill-set and problem solving ability, placing a special emphasis on system level thinking and good quality code. Also regularly write technical blogs and articles for various popular tech sites. I host my personal projects ( code & infra ), along with elaborate documentation here, and also the open source repositories I have contributed to</i></p>
 
 <img src="https://github.com/kaustav202/kaustav202/assets/89788120/dfd27902-23f2-4288-90e6-9980563f0319" />
 
@@ -29,19 +29,19 @@ You can click the Preview link to take a look at your changes.
 
 <details>
  
- <summary> <h2> &nbsp;&nbsp;&nbsp;⚡🙋‍♂️ About.. </h2> </summary>
+ <summary> <h2> &nbsp;&nbsp;&nbsp;⚡🙋‍♂️ About.. [ Click To Expand ] </h2> </summary>
 
  
 <img src="https://user-images.githubusercontent.com/89788120/170629441-5931b616-8b02-4cbd-abad-8bc12c049e03.png" width="35%" align="right"/>
  
 </br>
 
-- 🎨 I’m currently involved in...  building stuff, contributing to the community, and learning!
-- 🗃️ My Stacks 👉  **MERN** , **RDS** (Django), **ELK**
-- 💡 I’m curious about ...**Blockchain** and **Generative AI**.
-- 🤖 profile outlook.. **SDE**/ **Data Engg.**/ **Cloud**/ **Devops/MLops**
-- ❄️ I’m looking to collaborate on... useful Open Source Projects.
-- 🤝 Get in touch to.. participate in hackathons or coding competetions (Team)
+- 🎨 I’m currently involved in...  building stuff, contributing to the community, and exploring!
+- 🗃️ My Stacks 👉 **RUST**(Warp/Tokio), **MERN** , **Python** (Django/Fastapi/Flask)
+- 🤖 profile.. **SDE**/ **Solutions Architect**
+- 💡 I’m interested in ...**Embedded Systems**, **Autonomous Navigation**, **GPU Computation** and **Generative AI**.
+- ❄️ I’m looking to collaborate on... interesting Open Source Projects.
+- 🤝 Get in touch to.. collaborate or for programming competetions / hackathons (Team)
 - 📩 How to reach me ... **check out my socials** [below👇](https://github.com/kaustav202#----connnect-with-me)**!!**
 
 </br>
@@ -59,57 +59,48 @@ You can click the Preview link to take a look at your changes.
 
 #### Languages
 
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Javascript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript&logoColor=yellow)&nbsp;
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Javascript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript&logoColor=yellow)&nbsp;
+
 
 
 #### Development
+
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)&nbsp;
 ![Node js](https://img.shields.io/badge/Node%20JS-339933?style=flat&logo=nodedotjs&logoColor=white)&nbsp;
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=Apache&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat&logo=redis&logoColor=white)
 ![Fast API](https://img.shields.io/badge/fastapi-109989?style=flat&logo=FASTAPI&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)&nbsp;
 ![Reactjs](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
-![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)&nbsp;
-![Material UI](https://img.shields.io/badge/MaterialUI-757575?style=flat&logo=mui&logoColor=white)
-![Ant Design](https://img.shields.io/badge/AntDesign-0170FE?style=flat&logo=Ant%20Design&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white)
-![Chart js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white)
-
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)&nbsp;
+![Rabbit MQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)&nbsp;
+![Elastic Search](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)&nbsp;
      
 <!--      
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)&nbsp; -->
-
 #### Database
 
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)&nbsp;
-![SQlite](https://img.shields.io/badge/-SQlite-05122A?style=flat&logo=sqlite&logoColor=A8B9CC)&nbsp;
 ![Mongo DB](https://img.shields.io/badge/MongoDB-316192?style=flat&logo=mongodb&logoColor=47A248)
+![Neo4j](https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white)&nbsp;
 
-#### Tools and Technologies
+#### Tools
 
 ![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
-![Mongoose](https://img.shields.io/badge/Mongoose-D22128?style=flat&logo=mongoose&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=Sequelize&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-yellow?style=flat&logo=Webpack&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-<!-- ![Babel](https://img.shields.io/badge/Babel-yellow?style=flat&logo=babel&logoColor=black) -->
-<!-- ![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=flat&logo=nodemon&logoColor=white) -->
-<!-- ![PyPI](https://img.shields.io/badge/pypi-3775A9?style=flat&logo=pypi&logoColor=white)&nbsp; -->
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&n
 
-#### Data and Devops 
+
+#### Devops 
 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=flat&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white)
 ![Github Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 </td>
@@ -323,18 +314,18 @@ Featured Repositories.
 <!-- 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [kaustav202/Portfolio](https://github.com/kaustav202/Portfolio)
-2. ⬆️ Pushed 1 commit(s) to [kaustav202/Portfolio](https://github.com/kaustav202/Portfolio)
-3. ⬆️ Pushed 1 commit(s) to [kaustav202/Gamer-Hub](https://github.com/kaustav202/Gamer-Hub)
-4. ⬆️ Pushed 1 commit(s) to [kaustav202/Gamer-Hub](https://github.com/kaustav202/Gamer-Hub)
-5. ⬆️ Pushed 1 commit(s) to [kaustav202/Gamer-Hub](https://github.com/kaustav202/Gamer-Hub)
-6. ⬆️ Pushed 1 commit(s) to [kaustav202/Gamer-Hub](https://github.com/kaustav202/Gamer-Hub)
-7. ⬆️ Pushed 1 commit(s) to [kaustav202/Gamer-Hub](https://github.com/kaustav202/Gamer-Hub)
-8. ⬆️ Pushed 3 commit(s) to [kaustav202/RealTime-TwitterDataAnalysis](https://github.com/kaustav202/RealTime-TwitterDataAnalysis)
-9. 🎉 Merged PR [#26](https://github.com/kaustav202/RealTime-TwitterDataAnalysis/pull/26) in [kaustav202/RealTime-TwitterDataAnalysis](https://github.com/kaustav202/RealTime-TwitterDataAnalysis)
-10. 👍 Approved [#26](https://github.com/kaustav202/RealTime-TwitterDataAnalysis/pull/26#pullrequestreview-2320713404) in [kaustav202/RealTime-TwitterDataAnalysis](https://github.com/kaustav202/RealTime-TwitterDataAnalysis)
-11. ⬆️ Pushed 1 commit(s) to [kaustav202/Portfolio](https://github.com/kaustav202/Portfolio)
-12. ⬆️ Pushed 1 commit(s) to [kaustav202/Portfolio](https://github.com/kaustav202/Portfolio)
+1. ⬆️ Pushed 3 commit(s) to [kaustav202/Portfolio](https://github.com/kaustav202/Portfolio)
+2. ⬆️ Pushed 1 commit(s) to [kaustav202/RAG-Pipeline](https://github.com/kaustav202/RAG-Pipeline)
+3. ⬆️ Pushed 1 commit(s) to [kaustav202/RAG-Pipeline](https://github.com/kaustav202/RAG-Pipeline)
+4. ⬆️ Pushed 1 commit(s) to [kaustav202/RAG-Pipeline](https://github.com/kaustav202/RAG-Pipeline)
+5. ⬆️ Pushed 1 commit(s) to [kaustav202/RAG-Pipeline](https://github.com/kaustav202/RAG-Pipeline)
+6. ⬆️ Pushed 1 commit(s) to [kaustav202/rust-services](https://github.com/kaustav202/rust-services)
+7. ⬆️ Pushed 1 commit(s) to [kaustav202/rust-services](https://github.com/kaustav202/rust-services)
+8. ⬆️ Pushed 1 commit(s) to [kaustav202/rust-services](https://github.com/kaustav202/rust-services)
+9. ⬆️ Pushed 1 commit(s) to [kaustav202/rust-services](https://github.com/kaustav202/rust-services)
+10. ⬆️ Pushed 1 commit(s) to [kaustav202/rust-services](https://github.com/kaustav202/rust-services)
+11. ⬆️ Pushed 1 commit(s) to [kaustav202/rust-services](https://github.com/kaustav202/rust-services)
+12. ⬆️ Pushed 1 commit(s) to [kaustav202/rust-services](https://github.com/kaustav202/rust-services)
 <!--RECENT_ACTIVITY:end-->
 
 </br>
