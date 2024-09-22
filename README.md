@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Kaustav;Software+Engineer...;Cloud+Native+Enthusiast...;Open+Source+Contributor..;DevRel+&+Advocacy.."/>
  
- <p>- <i>Software Engineer focused on cloud native distributed systems, building products for startup. Equipped with a diverse skill-set and problem solving ability, placing a special emphasis on system level thinking and good quality code. Also regularly write technical blogs and articles for various popular tech sites. I host my personal projects ( code & infra ), along with elaborate documentation here, and also the open source repositories I have contributed to</i></p>
+ <p>- <i>Software Engineer focused on cloud native distributed systems, building products for startups. Equipped with a diverse skill-set and problem solving ability, placing a special emphasis on system level thinking and good quality code. Also regularly write technical blogs and articles for various popular tech sites. I host my personal projects ( code & infra ), along with elaborate documentation here, and also the open source repositories I have contributed to</i></p>
 
 <img src="https://github.com/kaustav202/kaustav202/assets/89788120/dfd27902-23f2-4288-90e6-9980563f0319" />
 
@@ -59,7 +59,7 @@ You can click the Preview link to take a look at your changes.
 
 #### Languages
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)&nbsp;
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
@@ -77,31 +77,31 @@ You can click the Preview link to take a look at your changes.
 ![Fast API](https://img.shields.io/badge/fastapi-109989?style=flat&logo=FASTAPI&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)&nbsp;
 ![Reactjs](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)&nbsp;
-![Rabbit MQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)&nbsp;
-![Elastic Search](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)&nbsp;
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white)&nbsp;
+![Rabbit MQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=flat&logo=rabbitmq&logoColor=white)&nbsp;
+![Elastic Search](https://img.shields.io/badge/Elastic_Search-005571?style=flat&logo=elasticsearch&logoColor=white)&nbsp;
      
-<!--      
+   
 #### Database
 
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white)&nbsp;
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)&nbsp;
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat&logo=apache%20cassandra&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)&nbsp;
 ![Mongo DB](https://img.shields.io/badge/MongoDB-316192?style=flat&logo=mongodb&logoColor=47A248)
-![Neo4j](https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white)&nbsp;
+![Neo4j](https://img.shields.io/badge/Neo4j-018bff?style=flat&logo=neo4j&logoColor=white)&nbsp;
 
 #### Tools
 
 ![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&n
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
 
 
 #### Devops 
 
-![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=flat&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Github Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=flat&logo=kubernetes&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)&nbsp;
+![Github Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)&nbsp;
 
 </td>
     <td>
@@ -337,18 +337,6 @@ Featured Repositories.
 
   <td width="65%" align = "left">
 
-  <h3>  &nbsp; &nbsp; <b> 📕 </b> &nbsp;Recent Articles and Blog Posts  </h3>
-
-   <h4>  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Source➡️ medium.com </h4>
-
-   
-<!-- BLOG-POST-LIST:START -->
-- [Security Vulnerabilities in Digital Wallets based on Ethereum Ecosystem and Other Blockchain…](https://medium.com/@kaustav_g/security-vulnerabilities-in-digital-wallets-based-on-ethereum-ecosystem-and-other-blockchain-bca3ae860f8d?source=rss-d1e37ddd01e4------2)
-- [An outline to Virtualization in IT systems and Software Engineering — why it’s more significant…](https://medium.com/@kaustav_g/an-outline-to-virtualization-in-it-systems-and-software-engineering-why-its-more-significant-3c59007eb869?source=rss-d1e37ddd01e4------2)
-- [Python tricks and techniques to help you get the most out of the language Part 1](https://medium.com/@kaustav_g/python-tricks-and-techniques-to-help-you-get-the-most-out-of-the-language-1-85741e608054?source=rss-d1e37ddd01e4------2)
-- [Take your GitHub profile from zero to hero with these 10 hacks](https://medium.com/@kaustav_g/take-your-github-profile-from-zero-to-hero-with-these-10-hacks-b6b5ffe3d065?source=rss-d1e37ddd01e4------2)
-- [How Open Source can be only thing you need to kickstart your journey as a software developer Part2](https://medium.com/@kaustav_g/how-open-source-can-be-only-thing-you-need-to-kickstart-your-journey-as-a-software-developer-part2-656cab3f4a82?source=rss-d1e37ddd01e4------2)
-<!-- BLOG-POST-LIST:END -->
 
   </td>
   
