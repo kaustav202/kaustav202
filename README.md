@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Kaustav;Software+Engineer...;Cloud+Native+Enthusiast...;Open+Source+Contributor..;DevRel+&+Advocacy.."/>
  
- <p>- <i>Software Engineer focused on cloud native distributed systems, building products for startups. Equipped with a diverse skill-set and problem solving ability, placing a special emphasis on system level thinking and good quality code. Also regularly write technical blogs and articles for various popular tech sites. I host my personal projects ( code & infra ), along with elaborate documentation here, and also the open source repositories I have contributed to</i></p>
+ <p>- <i>Software Engineer focused on cloud native distributed systems, building products for startups. Equipped with a diverse skill-set and problem solving ability, placing a special emphasis on system level thinking and good quality code. I host my personal projects ( code & infra ), along with elaborate documentation here, and also the open source repositories I have contributed to</i></p>
 
 <img src="https://github.com/kaustav202/kaustav202/assets/89788120/dfd27902-23f2-4288-90e6-9980563f0319" />
 
@@ -360,15 +360,6 @@ Featured Repositories.
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <img  src="https://readme-typing-svg.herokuapp.com?font=Soucre+Code+Pro&duration=1700&color=12263A&background=ffffff&multiline=true&width=650&height=220&lines=while(true);..+brain.init();..+if(+world.contains(open_source));....++s+%3D+open_source.login(kaustav202);....+s.explore();....+s.learn();....+s.contribute()"/>
 -->
 
-
-<div align="center">
- <b style = {font-weight: 500}>Visitors</b>
-
- <br>
-
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{kaustav202}/count.svg" /></p> 
-<br>
-</div>
 
  
 <!-- 
