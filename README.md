@@ -4,9 +4,10 @@
 
 # Hey there👋, Welcome to my Github Profile
 
-<img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=15&center=false&lines=hey!+its+Kaustav;Helping+Build+A+Better+Open+Source...;Contributing+To+Projects+With+Wide+Adoption;Keen+On+Cloud+Native+Technologies...;DevRel+Advocacy..;"/>
+</br>
+<img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&height=25&size=15&center=false&lines=hey!+its+Kaustav;Helping+Build+A+Better+Open+Source...;Contributing+To+Projects+With+Wide+Adoption;Keen+On+Cloud+Native+Technologies...;DevRel+Advocacy..;"/>
  
- <p>- <i>Exploring the vast sea of open source and finding interesting ( useful at the same time ) open source projects to contribute.Needless to say, I've also host my personal projects  here ( code & infra ), along with elaborate documentation on functionality, architecture and deployment instructions. Some of the projects have also seen active community participation, after being developed to a mature state by me, with a number of successfully merged prs and several closed issues. Professionally, I'm working as a Software Engineer building products for tech startups. My focus and primary feild of interest lies in distributed systems and cloud native application design placing a strong emphasis on system level thinking and quality code.. Also, I've evolved over time to strengthen my skill-set in the domains of AI/ML, Data Engineering and Systems Programming with good practical applications in each.</i></p>
+ <p>- <i>Exploring the vast sea of open source and finding interesting ( useful at the same time ) open source projects to contribute.Needless to say, I've also host my personal projects  here ( code & infra ), along with elaborate documentation on functionality, architecture and deployment instructions. Some of the projects have also seen active community participation, after being developed to a mature state by me, with a number of successfully merged prs and several closed issues.</i></p>
 
 <img src="https://github.com/kaustav202/kaustav202/assets/89788120/dfd27902-23f2-4288-90e6-9980563f0319" />
 
@@ -35,12 +36,13 @@ You can click the Preview link to take a look at your changes.
  
 </br>
 
-- 🎨 I’m currently involved in...  building stuff, contributing to the community, and exploring!
 - 🗃️ My Stacks 👉 **RUST**(Warp/Tokio), **MERN** , **Python** (Django/Fastapi/Flask)
 - 🤖 profile.. **SDE**/ **Solutions Architect**
 - 💡 I’m interested in ...**Embedded Systems**, **Autonomous Navigation**, **GPU Computation** and **Generative AI**.
 - ❄️ I’m looking to collaborate on... interesting Open Source Projects.
 - 🤝 Get in touch to.. collaborate or for programming competetions / hackathons (Team)
+- 🎨 I’m currently involved in...  building stuff, contributing to the community, and exploring!
+- Professionally, I'm working as a Software Engineer building products for tech startups. My focus and primary feild of interest lies in distributed systems and cloud native application design placing a strong emphasis on system level thinking and quality code. Also, I've evolved over time to strengthen my skill-set in the domains of AI/ML, Data Engineering and Systems Programming with good practical applications in each.
 - 📩 How to reach me ... **check out my socials** [below👇](https://github.com/kaustav202#----connnect-with-me)**!!**
 
 </br>
