@@ -306,7 +306,7 @@ Featured Repositories.
 <img width="77%" align="left" src ="profile-3d-contrib/profile-customize.svg"/> &nbsp; &nbsp;
 
 
-<img src = "https://github-readme-activity-graph.vercel.app/graph?username=kaustav202&custom_title=Recent%20Contribution%20Graph&line=6498b0&point=FFFFFF&theme=react-dark&hide_border=true&area=true&hide_title=true" width="77%" align="left"/>
+<img src = "https://github-readme-activity-graph.vercel.app/graph?username=kaustav202&custom_title=Recent%20Contribution%20Graph&line=6498b0&bg_color=0000&point=FFFFFF&theme=react-dark&hide_border=true&area=true&hide_title=true" width="77%" align="left"/>
 
 
 
