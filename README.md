@@ -175,20 +175,22 @@ You can click the Preview link to take a look at your changes.
  
   <h3> <img src="https://img.icons8.com/stickers/16/000000/down-left-arrow.png"/> </h3>
   
-  <h2> &nbsp;  Featured Repositories 🚀 </h2>
-  </summary> 
+  <h2> &nbsp; 📦 Featured Repositories.. [ Click To Expand ] </h2>
+  </summary>
 
 </br>
 
-<a href='https://github.com/kaustav202/Cryptosense'><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=Cryptosense&theme=swift&bg_color=f7f7f7ce"/></a>  &nbsp;&nbsp; &nbsp; &nbsp;<a href='https://github.com/kaustav202/Elastic-Chat'><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=Elastic-Chat&theme=swift&bg_color=f7f7f7ce"/></a>
+
+<a href='https://github.com/kaustav202/E2E-Data-Engineering-Pipeline'><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=E2E-Data-Engineering-Pipeline&theme=swift&&title_color=sky&icon_color=skybg_color=f7f7f7ce"/></a>  &nbsp;&nbsp; &nbsp; &nbsp;<a href='https://github.com/kaustav202/Elastic-Chat'><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=Elastic-Chat&&title_color=sky&icon_color=sky&theme=swift&bg_color=f7f7f7ce"/></a>
 
 </br>
 
-<a href='https://github.com/kaustav202/search-genie'><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=search-genie&theme=swift&bg_color=f7f7f7ce"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://github.com/kaustav202/micro-os'><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=micro-os&theme=swift&title_color=2f1970cf&icon_color=553b9de1&bg_color=f7f7f7ce"/> </a>
+<a href='https://github.com/kaustav202/search-genie'><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=search-genie&&title_color=sky&icon_color=sky&theme=swift&bg_color=f7f7f7ce"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://github.com/kaustav202/micro-os'><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=micro-os&theme=swift&title_color=sky&icon_color=sky&bg_color=f7f7f7ce"/> </a>
 
 </br>
 
-<a href='https://github.com/kaustav202/Gamer-Hub'><img width="48%" src = "https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=Gamer-Hub&theme=swift&bg_color=f7f7f7ce"/></a> &nbsp; &nbsp;&nbsp;&nbsp;<a href='https://github.com/kaustav202/RealTime-TwitterDataAnalysis'><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=RealTime-TwitterDataAnalysis&theme=swift&title_color=2f1970cf&icon_color=553b9de1&bg_color=f7f7f7ce"/></a>
+
+<a href='https://github.com/kaustav202/Cryptosense'><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=Cryptosense&theme=swift&&title_color=sky&icon_color=skybg_color=f7f7f7ce"/></a>  &nbsp; &nbsp;&nbsp;&nbsp;<a href='https://github.com/kaustav202/RealTime-TwitterDataAnalysis'><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=RealTime-TwitterDataAnalysis&theme=swift&title_color=sky&icon_color=sky&bg_color=f7f7f7ce"/></a>
 
  </details>
 
