@@ -7,9 +7,9 @@
  
  <p>- <i>Exploring the vast sea of open source and finding interesting ( useful at the same time ) projects to contribute towards. Needless to say, I also host my personal projects here ( code & workflows ), along with elaborate documentation on their functionality, architecture and deployment instructions. Some of the projects have also seen active community participation, after being developed to a mature state by me, with a number of successfully merged prs and several closed issues.</i></p>
 
-<!--
+
 <img src="https://github.com/kaustav202/kaustav202/assets/89788120/dfd27902-23f2-4288-90e6-9980563f0319" />
--->
+
 
 
 
