@@ -1,16 +1,15 @@
 <!-- 
 <img src="https://user-images.githubusercontent.com/89788120/170633304-e28e3b62-84d4-45b1-bcff-60b9241e3d7a.png" align="left"/>
  -->
-
-# Hey there👋, Welcome to my Github Profile
-
+# Welcome to a space where ideas transform into code! </br>
 </br>
 <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&height=25&size=15&center=false&lines=hey!+its+Kaustav;Helping+Build+A+Better+Open+Source...;Contributing+To+Projects+With+Wide+Adoption;Keen+On+Cloud+Native+Technologies...;DevRel+Advocacy..;"/>
  
  <p>- <i>Exploring the vast sea of open source and finding interesting ( useful at the same time ) projects to contribute towards. Needless to say, I also host my personal projects here ( code & workflows ), along with elaborate documentation on their functionality, architecture and deployment instructions. Some of the projects have also seen active community participation, after being developed to a mature state by me, with a number of successfully merged prs and several closed issues.</i></p>
 
+<!--
 <img src="https://github.com/kaustav202/kaustav202/assets/89788120/dfd27902-23f2-4288-90e6-9980563f0319" />
-
+-->
 
 
 
