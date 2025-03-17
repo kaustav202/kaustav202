@@ -316,7 +316,6 @@ Featured Repositories.
 <!-- 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises)
 <!--RECENT_ACTIVITY:end-->
 
 </br>
