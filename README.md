@@ -316,7 +316,6 @@ Featured Repositories.
 <!-- 
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [kaustav202/reacall-core](https://github.com/kaustav202/reacall-core)
 <!--RECENT_ACTIVITY:end-->
 
 </br>
