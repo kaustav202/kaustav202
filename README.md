@@ -316,9 +316,6 @@ Featured Repositories.
 <!-- 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [kaustav202/Url-Shortener](https://github.com/kaustav202/Url-Shortener)
-2. ⬆️ Pushed undefined commit(s) to [kaustav202/Url-Shortener](https://github.com/kaustav202/Url-Shortener)
-3. ⬆️ Pushed undefined commit(s) to [kaustav202/Url-Shortener](https://github.com/kaustav202/Url-Shortener)
 <!--RECENT_ACTIVITY:end-->
 
 </br>
